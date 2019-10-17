@@ -36,29 +36,30 @@
     <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
-            <div class="col-6">
+            <div class="col-6 web-title">
                 <h3 class="" >AN EVER-CHANGING RETAIL FRONT</h3>
                 <p class="">The client is an established, retail corporation responsible for the distribution of high-end furniture. Leveraging over 32 years of experience, they continue to evolve their long-term relationships with factories in Malaysia, Taiwan, Vietnam, Indonesia, Brazil, and China, allowing them to provide consumer products at competitive prices without sacrificing quality.
                         With locations around the globe, the client has upheld their competitive advantage by maintaining a commanding presence in e-commerce. In such a saturated market, failing to keep pace with technological trends can weigh heavily on ROI, costing in potential sales and sacrificing brand loyalty.</p>
             </div>
 
-            <div class="col-4  img/project-img/point-of-sales-pos.jpg">
-                    <img class="w-max" src="../img/project-img/Asset 12-100.jpg" alt="">
+            <div class="col-6  img/project-img/point-of-sales-pos.jpg">
+                    <img class="w-max" src="../img/project-img2/FURNITURE MANUFACTURER BRIDGES INVENTORY MANAGEMENT/inventory-management-software-solutions-ferrosia.com2.png" alt="">
             </div>
         </div>
       </div>
     </div>
   </section>
 
-<section class="section ">
+<section class="section bg-gray">
     <div class="container-fluid">
           <div class="container">
-            <div class="">
+            <div class="flex-row">
                 <div class="col-4 ">
+                     <img class="w-max" src="../img/project-img2/FURNITURE MANUFACTURER BRIDGES INVENTORY MANAGEMENT/inventory-management-software-solutions-ferrosia.com3.png" alt="">
                 </div>
-                <div class="col-6  ">
-                        <h3 class=" text-center " >OUTDATED UI/UX CAUSES OPERATIONAL ROADBLOCKS</h3>
-                        <p class=" text-center ">The client developed their pre-existing site using the Magento e-commerce platform with PHP as the language and MySQL as the active database. They requested that Chetu redevelop their ecommerce site, revamping the outdated features and programming a series of enhancements. Specifically, the client sought to enrich the user interface & user experience (UI/UX), plus improve the responsiveness for mobile devices.
+                <div class="col-6  web-title">
+                        <h3 class="">OUTDATED UI/UX CAUSES OPERATIONAL ROADBLOCKS</h3>
+                        <p class="">The client developed their pre-existing site using the Magento e-commerce platform with PHP as the language and MySQL as the active database. They requested that Chetu redevelop their ecommerce site, revamping the outdated features and programming a series of enhancements. Specifically, the client sought to enrich the user interface & user experience (UI/UX), plus improve the responsiveness for mobile devices.
                                 The commands that linked the Magento web application and the client's inventory database were written in database script that was prone to performance issues. The client kept their inventory management system separate from their web application, a fragmented system that perpetuated inefficiencies and caused discrepancies between customer purchases and products in-stock. To bridge the gap, the client wanted to integrate their inventory system with their website, unifying the system.
                         </p>
                  </div>
@@ -67,87 +68,13 @@
     </div>
 </section>
 
- <section class="section ">
-    <div class="container"> 
-            <div class="row-flex1">
-                <div>
-                        <img class="img-responsive" src="../img/asset-01.png" alt="">
-                </div> 
-                <div>
-                        <img class="img-responsive" src="../img/asset-02.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-03.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-04.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-05.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-06.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-07.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-08.png" alt="">
-                </div>
-             </div>
 
-            <div class="row-flex1">
-                <div>
-                        <img class="img-responsive" src="../img/asset-088.png" alt="">
-                </div> 
-                <div>
-                        <img class="img-responsive" src="../img/asset-09.png" alt="">
-                </div> 
-                <div>
-                        <img class="img-responsive" src="../img/asset-010.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive" src="../img/asset-011.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-012.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-013.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-014.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-015.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-016.png" alt="">
-                </div>
-                <div>
-                        <img class="img-responsive"class="img-rensponsive" src="../img/asset-017.png" alt="">
-                </div>
-             </div>
 
-             <div class="row-flex1">
-                    <div>
-                            <img class="img-responsive" src="../img/asset-018.png" alt="">
-                    </div> 
-                    <div>
-                            <img class="img-responsive" src="../img/asset-019.png" alt="">
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/asset-020.png" alt="">
-                    </div>
-             </div>
-    </div>
-</section>
-
-<section class="section bg-gray">
+<section class="section ">
         <div class="container-fluid">
              <div class="container">
                 <div class="flex-row">
-                    <div class="col-4 web-title">
+                    <div class="col-4 ">
                             <h3 class="" >CHETU REDESIGNS MAGENTO SITE</h3>
                             <p class="">Chetu dramatically improved the UI/UX of the client's website by establishing an efficient, one-page checkout process by integrating the USAePay payment gateway into the Magento e-commerce site.
                                     In addition, Chetu bridged the site and their inventory database using a middleware called eBridge, which is used to automate the bi-directional exchange of data. This enhancement gave sales representatives the capability to create quotes for their customers by adding the product and price information to the shopping cart.
@@ -167,9 +94,11 @@
                             </p>
                     </div>
         
-                    <div class="col-6">
-                            <img src="../img/asset-1.png" alt="">
-                    </div>
+                    <div class="col-6 img-margin-1">
+                        <div class="img-margin" >
+                            <img src="../img/project-img2/FURNITURE MANUFACTURER BRIDGES INVENTORY MANAGEMENT/inventory-management-software-solutions-ferrosia.com-coding.png" alt="">
+                        </div>
+                  </div>
                 </div>
             </div>
         </div>

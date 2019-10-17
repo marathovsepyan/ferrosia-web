@@ -718,6 +718,7 @@ body {
 	min-height: 333px;
 	overflow: hidden;
 	padding: 0;
+	margin-bottom: 40px;
 	
 
 	a {
@@ -745,7 +746,8 @@ body {
 	}
 
 	img {
-		min-height: 190px;
+		min-height: 230px;
+		max-height: 230px;
 	}
 
 	
@@ -793,8 +795,14 @@ body {
 	text-decoration: none;
 }
 
+.img-margin {
+	display: flex;
+	align-items: center;
+}
 
-
+.img-margin-1 {
+	display: flex;
+}
 
 
 

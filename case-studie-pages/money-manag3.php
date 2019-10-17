@@ -32,97 +32,49 @@
     </div>
 </section>
 
-  <section class="section ">
+  <section class="section" >
     <div class="container">
         <div class="flex-row">
-            <div class="col-4 web-title">
+            <div class="col-6">
                 <h3 class="" >WHO IS THE CLIENT?</h3>
                 <p class="">The client is an American corporation operating a chain of retail gas stations, primarily located in proximity to Walmart stores. This Fortune 500 company's locations vary from small kiosk locations to larger walk-in convenience stores.
                         Larger locations offer top food and beverage brands, with a wide choice of coffee, tea, fountain drinks, ICEEs, fresh food and beer, as well as cigarettes. Another variety of the client's locations feature large localities that measure around 1,200+ square feet, offering a diverse array of products and gas pumps with additional fueling lanes.</p>
             </div>
 
             <div class="col-6">
-                <img class="w-max" src="../img/project-img/Asset 13-100.jpg" alt="">
+                <img class="w-max" src="../img/project-img2/CONVIENENCE STORE CHAIN RETHINKS MONEY MANAGEMENT/custom-budget-application-Ferrosia.com1.jpg" alt="">
             </div>
         </div>
     </div>
 </section>
 
+<section class="section bg-gray">
+  <div class="container">
+        <div class="flex-row">
+                <div class="col-6 img-margin-1">     
+                     <div class="img-margin">    
+                            <img class="w-max" src="../img/project-img2/CONVIENENCE STORE CHAIN RETHINKS MONEY MANAGEMENT/custom-budget-application-Ferrosia.com3.jpg" alt="">  
+                    </div>
+                </div>
+                <div class="col-6" style="margin: 50px">
+                        <h3 class="" >THE CHETU APPROACH</h3>
+                        <p class="">Because the application was designed to handle large sums of money, secure and certifiable software development was paramount to the future of their firm. Chetu sought to develop software cohesive to the client's preexisting model, streamlining their image across platforms. The Chetu approach resulted in an application that satisfied the real estate company's need for a...
+
+                                User-friendly application that allows fundraisers and borrowers to create multiple portfolios and cases.
+                                Management system for important documentation and providing a means to aggregate data into detailed reports.
+                                Channel for soliciting with investors, as well as manually sorting / hand picking investors and assigning them to specific cases based on their contributions.
+                                Progress bar to display the total amount raised so far and how many more days left to raise and achieve the target.
+                                Integration to an EBPP platform for ACH/credit card payment processing.
+                                Chetu's partnership concluded with a custom bridge lending application that improved our client's internal processes significantly-another Chetu success.</p>
+                </div>
+        </div>
+   </div>      
+  </section>
+
 <section class="section ">
  <div class="container-fluid">
     <div class="container">
             <div class="flex-row">
-                <div class="col-4 web-title">
-                        <div class="row-flex1 ">
-                                <div>
-                                        <img class="img-responsive img-expert-lang" src="../img/language/asset-10.png" alt="">
-                                        <h5 class="text-center">Java Script</h5>
-                                </div> 
-                                <div>
-                                        <img class="img-responsive img-expert-lang" src="../img/language/asset-11.png" alt="">
-                                        <h5 class="text-center">SQL</h5>
-                                </div>
-                                <div>
-                                        <img class="img-responsive img-expert-lang" src="../img/language/asset-12.png" alt="">
-                                        <h5 class="text-center">Objective-C</h5>
-                                </div>
-                                <div>
-                                        <img class="img-responsive img-expert-lang" src="../img/language/asset-13.png" alt="">
-                                        <h5 class="text-center">Rudy</h5>
-                                </div>
-                                <div>
-                                        <img class="img-responsive img-expert-lang" src="../img/language/asset-14.png" alt="">
-                                        <h5 class="text-center">C#</h5>
-                                </div>
-                               
-                                
-                             </div>
-                    
-                             <div class="row-flex1 ">
-                                    <div>
-                                            <img class="img-responsive img-expert-lang" src="../img/language/asset-17.png" alt="">
-                                            <h5 class="text-center">C++</h5>
-                                    </div> 
-                                    <div>
-                                            <img class="img-responsive img-expert-lang" src="../img/language/asset-18.png" alt="">
-                                            <h5 class="text-center">Perl</h5>
-                                    </div>
-                                    <div>
-                                            <img class="img-responsive img-expert-lang" src="../img/language/asset-19.png" alt="">
-                                            <h5 class="text-center">Swift</h5>
-                                    </div>
-                                    <div>
-                                            <img class="img-responsive img-expert-lang" src="../img/language/asset-20.png" alt="">
-                                            <h5 class="text-center">Golang</h5>
-                                    </div>
-                                    <div>
-                                            <img class="img-responsive img-expert-lang" src="../img/language/asset-21.png" alt="">
-                                            <h5 class="text-center">.NET</h5>
-                                    </div>
-                                    
-                                    
-                                 </div>
-
-                                 <div class="row-flex1 ">
-                                        <div>
-                                                <img class="img-responsive img-expert-lang" src="../img/language/asset-22.png" alt="">
-                                                <h5 class="text-center">Java</h5>
-                                        </div>
-                                        <div>
-                                                <img class="img-responsive img-expert-lang" src="../img/language/asset-23.png" alt="">
-                                                <h5 class="text-center">PHP</h5>
-                                        </div>
-                                        <div>
-                                                <img class="img-responsive img-expert-lang" src="../img/language/asset-15.png" alt="">
-                                                <h5 class="text-center">HTML5</h5>
-                                        </div>
-                                        <div>
-                                                <img class="img-responsive img-expert-lang" src="../img/language/asset-16.png" alt="">
-                                                <h5 class="text-center">Python</h5>
-                                        </div>
-                                 </div>
-                   </div>
-                
                 <div class="col-6  ">
                         <h3 class="" >CHETU ENGINEERS FULL-SERVICE BUSINESS BUDGETING SOFTWARE</h3>
                         <p class="">Chetu, a certified software development company with vast experience developing and integrating custom software, assisted the client and transitioned their vision into a highly intelligent application.
@@ -137,31 +89,16 @@
                           </ul>
                         </p>
                  </div>
+                 <div class="col-6 img-margin-1">    
+                     <div class="img-margin" >
+                       <img class="w-max" src="../img/project-img2/CONVIENENCE STORE CHAIN RETHINKS MONEY MANAGEMENT/custom-budget-application-Ferrosia.com-coding.png" alt="">  
+                    </div>
             </div>
         </div>
     </div>
 </section>
 
-  <section class="section bg-gray">
-    <div class="container-fluid">
-        <div class="container">
-                <div class="" style="margin: 50px">
-                        <h3 class="text-center" >THE CHETU APPROACH</h3>
-                        <p class="">Because the application was designed to handle large sums of money, secure and certifiable software development was paramount to the future of their firm. Chetu sought to develop software cohesive to the client's preexisting model, streamlining their image across platforms. The Chetu approach resulted in an application that satisfied the real estate company's need for a...
-
-                                User-friendly application that allows fundraisers and borrowers to create multiple portfolios and cases.
-                                Management system for important documentation and providing a means to aggregate data into detailed reports.
-                                Channel for soliciting with investors, as well as manually sorting / hand picking investors and assigning them to specific cases based on their contributions.
-                                Progress bar to display the total amount raised so far and how many more days left to raise and achieve the target.
-                                Integration to an EBPP platform for ACH/credit card payment processing.
-                                Chetu's partnership concluded with a custom bridge lending application that improved our client's internal processes significantly-another Chetu success.</p>
-                   
-        
-                   
-                </div>
-            </div>
-        </div>
-</section>
+ 
 
 
 

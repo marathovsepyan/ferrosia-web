@@ -36,28 +36,35 @@
     <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
-            <div class="col-4 web-title">
+            <div class="col-6 ">
                 <h3 class="" >AIRBNB│VACATION RENTAL POWERHOUSE</h3>
                 <p class="">Airbnb has taken the vacation rental community by storm, allowing property owners to post their rental offerings and directly engage with customers interested in their selection. The most compelling aspect of this platform is its ease of use, from both a tenant and owner perspective. Tenants simply enter their arrival and departure dates, their desired location, and these specifications return all properties relevant to them.
                         There is also a diverse set of search specifications to choose from apart from dates and locations; these range from property type and on-site parking to pet friendliness, alongside at least twenty others. You choose which amenities you cannot live without, and Airbnb does the work for you.
                         Essentially, Airbnb represents the dawn of a new hospitality era, an online marketplace where providers and consumers come together to represent themselves. Currently Airbnb's catalog includes over 4 million listing across the globe, and has overseen at least 260 million short-term stays to date. Given the immense success Airbnb has seen during its 9 years of service, it was no surprise when Chetu began receiving Airbnb integration requests.</p>
             </div>
 
-            <div class="col-6">
-                    <img class="w-max" src="../img/project-img/asset-16-100.jpg" alt="">
+            <div class="col-6 img-margin-1">
+                <div class=" img-margin" >
+                    <img class="w-max" src="../img/project-img2/HELPS CLIENT REACH GLOBAL RENTAL MARKETS WITH AIRBNB API INTEGRATIONS/rental-market-with-airbnb-api-integreations-ferrosia.com2.png" alt="">
+               </div>
             </div>
          </div>
        </div>
     </div>
 </section>
 
-<section class="section-sm">
+<section class="section-sm bg-gray">
     <div class="container-fluid">
             <div class="container">
-            <div class="">
-                <div class="col ">
-                        <h3 class="text-center" > BI-DIRECTIONAL COMMUNICATION BETWEEN NATIVE SITE AND AIRBNB</h3>
-                        <p class="text-center">One client in particular was hoping to increase their rental property exposure by developing a direct line of bi-directional communication between the client's preexisting site and Airbnb
+            <div class="flex-row">
+                <div class="col-6  img-margin-1">
+                    <div class="img-margin">
+                        <img class="w-max" src="../img/project-img2/HELPS CLIENT REACH GLOBAL RENTAL MARKETS WITH AIRBNB API INTEGRATIONS/rental-market-with-airbnb-api-integreations-ferrosia.com3.jpg" alt="">
+                   </div>
+                </div>
+                <div class="col-6">
+                        <h3 class=""> BI-DIRECTIONAL COMMUNICATION BETWEEN NATIVE SITE AND AIRBNB</h3>
+                        <p class="">One client in particular was hoping to increase their rental property exposure by developing a direct line of bi-directional communication between the client's preexisting site and Airbnb
                                 Chetu constructed a project plan outlining the client's requests; ultimately they were hoping to create a low maintenance gateway between the two entities. Through this gateway, inventory-related information would pass in real-time including specifics such as availability, pricing, and property descriptions.
                                 When renters requested a property through Airbnb, the details would then filter back into their native system, creating a unified set of data. First, Chetu established the need for a custom Web API to pass data between the systems. The client outlined the following data to be considered for transfer:
                                 <ul>
@@ -69,7 +76,7 @@
                                 </ul>
                                 An Airbnb API implementation would then send reservation details back to the native system. The preliminary process also included inventory retrieval, ensuring that the data at hand was displayed accurately between the sites.
                         </p>
-                 </div>
+                 </div>  
             </div>
          </div>
      </div>
@@ -77,17 +84,17 @@
 
      <section class="section-sm">
             <div class="container">
-                    <img class="img-responsive" src="../img/asset-10.png" alt="">      
+                    <img class="img-responsive" src="../img/project-img2/" alt="">      
                 </div>
               </div>
         </section>
 
-    <section class="section-sm bg-gray">
+    <section class="section-sm ">
         <div class="container-fluid">
-             <div class="container" style="margin-bottom: 80px">
-                <div class="">
-                    <div class="col web-title">
-                            <h3 class="text-center" >WEB API FILTERS INCOMING DATA THROUGH A 3-TIER SYSTEM</h3>
+             <div class="container">
+                <div class="flex-row">
+                    <div class="col-6">
+                            <h3 class="" >WEB API FILTERS INCOMING DATA THROUGH A 3-TIER SYSTEM</h3>
                             <p class="">During the development process Chetu deployed the following technologies…
                                    <ul>
                                        <li>VS 2017</li>
@@ -101,6 +108,11 @@
                                    Chetu chose two libraries to leverage within the project, Elmah and Log4net. Elmah was implemented to capture all the rental exceptions and display user-friendly messages regarding the exceptions within the UI. Log4net was used for logging and tracing information, warnings, and errors.
                                    Chetu formulated a deliverable for the client that had the dual-functionality they desired, preserving the integrity of their legacy system while reaping the benefits of Airbnb's global consumer following.
                             </p>
+                    </div>
+                    <div class="col-6 img-margi-1">
+                        <div class="img-margi" >
+                            <img class="w-max web-title" src="../img/project-img2/HELPS CLIENT REACH GLOBAL RENTAL MARKETS WITH AIRBNB API INTEGRATIONS/rental-market-with-airbnb-api-integreations-ferrosia.com-coding.png" alt="">
+                       </div>
                     </div>
                  </div>
               </div>

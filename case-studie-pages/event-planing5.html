@@ -36,29 +36,33 @@
     <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
-            <div class="col-6 web-title">
+            <div class="col-6">
                 <h3 class="" >THE CLIENT</h3>
                 <p class="">Chetu's client has been in the event industry for 25+ years. Within that timeframe, our client targeted several pain points in the industry that usually go ignored.
                         What our client realized: most platforms do not facilitate a streamlined communication between event planners, venues and suppliers, creating unnecessary friction and a glut of wasted resources. The client wanted to focus on optimizing workflows for planners to be more productive by giving them the tools to stay organized.
                         Ultimately, our client wanted to foster collaboration between venues, suppliers and planners, while allowing planners to retain control over processes.</p>
             </div>
 
-            <div class="col-4">
-                <img class="w-max" src="../img/project-img/asset-15-100.jpg" alt="">
+            <div class="col-6  img-margin-1">
+              <div class="img-margin" >
+                 <img class="w-max" src="../img/project-img2/EVENT PLANNING INEFFICIENCIES WITH CUSTOM SOLUTIONS/event-planning-software-ferrosia.com2.jpg" alt="">
+               </div>
             </div>
          </div>
        </div>
     </div>
 </section>
 
-<section class="section ">
+<section class="section bg-gray">
     <div class="container-fluid">
        <div class="container">
             <div class="flex-row">
-                <div class="col-4 ">
-                        <img class="w-max" src="../img/asset -11-100.jpg" alt="">  
+                <div class="col-6 img-margin-1">
+                     <div class="img-margin" >
+                        <img class="w-max " src="../img/project-img2/EVENT PLANNING INEFFICIENCIES WITH CUSTOM SOLUTIONS/event-planning-software-ferrosia.com3.jpg" alt="">  
+                    </div>
                 </div>
-                <div class="col-6  ">
+                <div class="col-6 ">
                         <h3 class="" > CHETU'S PROJECT</h3>
                         <p class="">The client addressed the challenge of preserving open channels of communication between planners, venues and suppliers. As an active participant in the event industry, our client observed that most planners input information into an excel sheet, which they then send to the venue and/or supplier, who also makes adjustments.
                                 Manual data entry subjects information to human error and is indicative of an inefficient process. The project dictated a migration toward a scalable and integrated system for event planning; a cloud-based platform to streamline real-time data.
@@ -70,12 +74,12 @@
     </div>
 </section>
 
-    <section class="section bg-gray">
+    <section class="section ">
         <div class="container-fluid" >
-          <div class="container" style="margin: 50px">
-                <div class="">
-                    <div class="col">
-                            <h3 class="text-center" >THE CHETU APPROACH</h3>
+          <div class="container">
+                <div class="flex-row">
+                    <div class="col-6">
+                            <h3 class="" >THE CHETU APPROACH</h3>
                             <p class="">The client did copious amounts of research before approaching Chetu to ensure they brought their idea to the most certified software development company, who could understand and fulfill its potential. Chetu drew on its vast experience developing and integrating custom planning software to create a solution that met and exceeded the client's expectation.
                                     After undergoing extensive correspondence with the client, in order to ensure the project progressed with a unified vision, Chetu developers began translating the concept to code.
                                     The finished event planning software satisfied the client's need for…
@@ -88,6 +92,11 @@
                                 <li>Preserving the one-point shop by seamlessly integrating marketing and web applications to deliver unparalleled functions.</li> 
                               </ul>
                             </p>
+                    </div>
+                    <div class="col-6  img-margin-1">
+                       <div class="img-margin" >
+                           <img class="w-max" src="../img/project-img2/EVENT PLANNING INEFFICIENCIES WITH CUSTOM SOLUTIONS/event-planning-software-ferrosia.com-coding.png" alt="">  
+                       </div>
                     </div>
                 </div>
             </div>

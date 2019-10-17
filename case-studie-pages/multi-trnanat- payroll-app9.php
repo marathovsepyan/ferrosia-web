@@ -30,7 +30,9 @@
     <div class="container text-center">
          <h1>MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM WITH KRONOS WORKFORCE MANAGEMENT SYSTEM</h1>
     </div>
+</section>
 
+<section class="section ">
     <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
@@ -42,20 +44,27 @@
                         The emergence of the cloud existed as a tipping point for the company, becoming the revolutionary storage platform they needed to usher their solutions toward an elevated tier of payroll processing. After participating in a cloud system beta test, the client transitioned themselves from services provider to a product seller.</p>
             </div>
 
-            <div class="col-4">
-                    <img class="w-max" src="../img/project-img/Asset 13-100.jpg" alt="">
+            <div class="col-6 img-margin-1">
+                <div class="img-margin" >
+                    <img class="w-max " src="../img/project-img2/MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM/payroll-application-solutions-ferrosia.com2.jpg" alt="">
+               </div>
             </div>
         </div>
     </div>
+</section>
 
- <section class="section">
+ <section class="section bg-gray">
     <div class="container-fluid">
        <div class="container">
-            <div class="">
-                
-                <div class="col ">
-                        <h3 class="text-center" > REVAMPING PREEXISTING HCM SOFTWARE WITH CHETU SOLUTIONS AND KRONOS SOFTWARE</h3>
-                        <p class="text-center">The client was on a two-part mission: develop a service linking 3rd party systems, beginning with a small group of applications and scaling up, and locate a development company capable of engineering the multi-tenant app at a fair cost.
+            <div class="row-flex">
+                <div class="col-6 img-margin-1">
+                     <div class="img-margin" >
+                         <img class="w-max" src="../img/project-img2/MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM/payroll-application-solutions-ferrosia.com3.jpg" alt="">
+                     </div>
+                </div>
+                <div class="col-6">
+                        <h3 class="" > REVAMPING PREEXISTING HCM SOFTWARE WITH CHETU SOLUTIONS AND KRONOS SOFTWARE</h3>
+                        <p class="">The client was on a two-part mission: develop a service linking 3rd party systems, beginning with a small group of applications and scaling up, and locate a development company capable of engineering the multi-tenant app at a fair cost.
                                 When the client came to Chetu they already had a finalized vision, they just needed the coding bandwidth to match. The objective of the project was to create an application that would connect with the Kronos system, capable of retrieving data on a specific employer and saving the specified data into the database.
                                 Chetu's developers needed to implement a Kronos integration that was crucial to the client, due to the importance of the Kronos System in helping to generate files and internal data directly from the application to be created. 
                                 Chetu utilized the Kronos system to create an action within this integrated application, where new employees that are added into the system can also have their information dispatched into another third party Human Capital Management system called PosterElite. This integrated application created user management, employer management, report attributes, mapping, and a file generation schedule within the clients organization.
@@ -65,28 +74,30 @@
             </div>
          </div>
       </div>
+  </section>
 
-      <section class="section">
-           <div class="container" style="margin-bottom: 80px">
-                <div class="">
-                    <div class="col web-title">
-                            <h3 class="text-center" >STREAMLINING DATA FLOW FOR SIMPLIFIED RETRIEVAL AND EXCHANGE</h3>
+  <section class="section ">
+         <div class="container">
+                <div class="row-flex">
+                    <div class="col-6 ">
+                            <h3 class="" >STREAMLINING DATA FLOW FOR SIMPLIFIED RETRIEVAL AND EXCHANGE</h3>
                             <p class="">Chetu needed to create an application that would enable the client to manage and auto generate revenue and payroll files directly from the Kronos System in order to populate third-party data in XML format. The application allows user to login into the system, manage system users, employers' data, and state revenue files per clients on a monthly basis.
                                        <br> Chetu leveraged the following technologies during the course of this project…
-                                   <ul>
-                                       <li>Kronos</li>
-                                       <li>.NET framework</li>
-                                       <li>C#</li>
-                                       <li>HTML5</li>
-                                       <li>jQuery</li>
-                                       <li>Log4net – For logging and tracing in application.</li>
-                                   </ul>
-                                   <ul>
-                                        <li>MS SQL</li>
-                                        <li>Visual Studio 2015</li>
-                                        <li>SQL Server ApexSQL Refactor</li>
-                                        <li>CSS</li>
-                                    </ul>
+                                 <div class="row-flex">
+                                        <ul>
+                                                <li>Kronos</li>
+                                                <li>.NET framework</li>
+                                                <li>C#</li>
+                                                <li>HTML5</li>
+                                                <li>jQuery</li>
+                                        </ul>
+                                        <ul>
+                                                <li>MS SQL</li>
+                                                <li>Visual Studio 2015</li>
+                                                <li>SQL Server ApexSQL Refactor</li>
+                                                <li>CSS</li>
+                                        </ul>
+                                 </div>
                                     The final deliverable extended beyond the client's original project demands, outfitting their operation with a highly intuitive multi-tenant application. From the application, admin has the capacity to create new users, who can then login into the system at their own discretion. Administrators can view a list of all clients, importing and adding the clients to the third-party system directly from the application.In terms of revenue service file management, admins are capable of the following actions…
                                     <ul>
                                             <li>Downloading XML files for each employer (Client) per month basis.</li>
@@ -97,83 +108,18 @@
                                      </ul>
                                 </p>
                     </div>
-                </div>
+                    <div class="col-6 img-margin-1">
+                      <div class="img-margin" >
+                        <img class="w-max " src="../img/project-img2/MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM/payroll-application-solutions-ferrosia.com-coding.png" alt="">
+                      </div>
+                   </div>
             </div>
 </section>
-<section class="section bg-gray">
-        <div class="container"> 
-                <div class="row-flex1">
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-10.png" alt="">
-                            <h5 class="text-center">Java Script</h5>
-                    </div> 
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-11.png" alt="">
-                            <h5 class="text-center">SQL</h5>
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-12.png" alt="">
-                            <h5 class="text-center">Objective-C</h5>
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-13.png" alt="">
-                            <h5 class="text-center">Rudy</h5>
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-14.png" alt="">
-                            <h5 class="text-center">C#</h5>
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-15.png" alt="">
-                            <h5 class="text-center">HTML5</h5>
-                    </div>
-                    <div>
-                            <img class="img-responsive" src="../img/language/asset-16.png" alt="">
-                            <h5 class="text-center">Python</h5>
-                    </div>
-                    
-                 </div>
-        
-                 <div class="row-flex1">
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-17.png" alt="">
-                                <h5 class="text-center">C++</h5>
-                        </div> 
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-18.png" alt="">
-                                <h5 class="text-center">Perl</h5>
-                        </div>
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-19.png" alt="">
-                                <h5 class="text-center">Swift</h5>
-                        </div>
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-20.png" alt="">
-                                <h5 class="text-center">Golang</h5>
-                        </div>
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-21.png" alt="">
-                                <h5 class="text-center">.NET</h5>
-                        </div>
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-22.png" alt="">
-                                <h5 class="text-center">Java</h5>
-                        </div>
-                        <div>
-                                <img class="img-responsive" src="../img/language/asset-23.png" alt="">
-                                <h5 class="text-center">PHP</h5>
-                        </div>
-                        
-                     </div>
-             </div>     
-    </section>
+
 
 
 
    
-
-
-
 
 
     <div data-include="../components/footer.html"></div>

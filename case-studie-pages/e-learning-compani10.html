@@ -32,12 +32,12 @@
     </div>
 </section>
 
+
 <section class="section ">
-    <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
-            <div class="col-4">
-                <h3 class="" >THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY</h3>
+            <div class="col-6">
+                <h3 class="">THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY</h3>
                 <p class="">THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY
                         This client is a leading e-learning company that develops and implements educational technology to improve learning. They have spent 15 years perfecting their products focusing on the needs of associations, nonprofits and government agencies. The Software as a Service (SaaS) Learning Management System (LMS) incorporates content in the form of quizzes, exams, learner-assessments, discussion forums and certifications. The courses are designed to fit the learning preferences of clients using an adult learning theory for revolutionary performance improvement.  
                         Currently the client provides following services:</p>
@@ -50,21 +50,23 @@
                                 <li>Streaming web video</li>
                          </ul>
             </div>
-
-            <div class="col-6">
-                    <img class="" src="../img/asset-12-100.jpg" alt="">
+            <div class="col-6 img-margin-1">
+                <div class="img-margin" >
+                    <img class="w-max" src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com1.jpg" alt="">
+                </div>
             </div>
-         </div>
        </div>
-    </div> 
  </section>
 
- <section class="section ">
+
+ <section class="section bg-gray ">
     <div class="container-fluid">
          <div class="container">
             <div class="flex-row">
-                <div class="col-4 ">
-                        <img class="w-max" src="../img/asset -11-100.jpg" alt="">
+                <div class="col-6 img-margin-1">
+                   <div class="img-margin" >
+                        <img class="w-max" src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com3.jpg" alt="">
+                   </div>
                 </div>
                 <div class="col-6  ">
                         <h3 class="" > CLIENT MERGES WITH MAGENTO E-COMMERCE WEB SERVICE</h3>
@@ -80,9 +82,9 @@
      <section class="section bg-gray ">
         <div class="container-fluid">
              <div class="container" style="margin-bottom: 80px"> 
-                <div class="">
-                    <div class="col web-title">
-                            <h3 class="text-center" >CHETU DEVELOPS THE MAGENTO WEB SERVICE SOLUTION</h3>
+                <div class="flex-row">
+                    <div class="col-6 ">
+                            <h3 class="" >CHETU DEVELOPS THE MAGENTO WEB SERVICE SOLUTION</h3>
                             <p class="">Chetu leveraged the following technologies to carry the client's vision from concept to code:
                                        
                                    <ul>
@@ -108,6 +110,11 @@
                                         The client left with an intuitive deliverable sales tracking mechanism that is organized for data readability and accessibility. Their updated platform now has the capacities to handle a large influx of sales data as they continue to grow their e-learning business. Chetu continues to support this client with any upgrades needed or issues they come across with the platforms.
                                     </p>
                     </div>
+                    <div class="col-6 img-margin-1 ">
+                         <div class="img-margin" >
+                            <img class="w-max" src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com-coding.png" alt="">
+                        </div>
+                   </div>
                 </div>
             </div>
         </div>

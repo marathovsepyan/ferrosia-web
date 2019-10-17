@@ -36,7 +36,7 @@
     <div class="container-fluid">
       <div class="container">
         <div class="flex-row">
-            <div class="col-4">
+            <div class="col-6">
                 <h3 class="" >THE CLIENT</h3>
                 <p class="">The client has culminated robust, business applications within the computer software development realm for around 7 years. Through their experiences with enterprises of all kinds, our client pinpointed a shortcoming in their current offerings and decided they needed to outsource to bridge the gap.
                         The client approached Chetu with a loyalty application development project, an application with mobile compatibility that enabled customers to earn rewords from their everyday purchases. They wanted to target high traffic necessities in order to garner their customers the largest sum of rewards. In order to do so, the client envisioned a loyalty app that tracked gas station, grocery store, and other commonplace retail purchases.
@@ -44,19 +44,21 @@
             </div>
 
             <div class="col-6">
-                <img class="w-max" src="../img/project-img/Asset 12-100.jpg" alt="">
+                <img class="w-max" src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com2.jpeg" alt="">
             </div>
         </div>
       </div>
    </div>
  </section>
 
-   <section class="section ">
+   <section class="section bg-gray">
     <div class="container-fluid">
        <div class="container">
             <div class="flex-row">
-                <div class="col-4 ">
-                        <img class="w-max" src="../img/asset-12-100.jpg" alt="">
+                <div class="col-6 img-margin-1">
+                    <div class="img-margin" >
+                        <img class="w-max" src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com3.jpg" alt="">
+                   </div>
                 </div>
                 <div class="col-6  ">
                         <h3 class="" >MOBILE LOYALTY APP DOUBLES AS MARKETING TOOL</h3>
@@ -71,11 +73,11 @@
      </div>
     </section>
 
-    <section class="section bg-gray">
+    <section class="section ">
         <div class="container-fluid">
              <div class="container">
-                <div class="">
-                    <div class="col web-title">
+                <div class="flex-row">
+                    <div class="col-6 ">
                             <h3 class="" >CHETU INTEGRATES FACEBOOK API FOR EASY LOGIN</h3>
                             <p class="">Chetu worked closely with the client throughout the relationships so that as scope of the project evolved, the app remained well within the budget originally outlined. To mirror a more popular retail web app that the client wanted to use as an inspiration for the design Chetu implemented the following technologies:                               
                                     <ul>
@@ -88,6 +90,11 @@
                                     The finished app features a convenient log-in screen that connects to Facebook, linking user profiles with their app accounts for a faster registration process. From the app, customers can earn rewards for shopping at the businesses they are already frequenting.
                                     An integrated payment gateway on the web application processes the monthly fees from businesses registered with the app.
                             </p>
+                    </div>
+                    <div class="col-6 img-margin-1">
+                        <div class="img-margin" >
+                            <img class="w-max" src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com-coding.png" alt="">
+                       </div>
                     </div>
                 </div>
             </div>
