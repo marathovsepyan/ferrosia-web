@@ -37,7 +37,7 @@
        <div class="container">
         <div class="flex-row">
             <div class="col-4 web-title">
-                <h3 class="" >CHETU'S CLIENT</h3>
+                <h2 class="" >CHETU'S CLIENT</h2>
                 <p class="">This Chetu client is a real estate company dedicated to providing individuals and businesses access to commercial real estate bridge lending opportunities.
                         Leveraging 40+ years of combined experience, the management team matches investors with the most lucrative short-term commercial loan opportunities, guaranteeing that their customers remain well-informed and financially secure through the entire lending experience.</p>
             </div>
@@ -60,7 +60,7 @@
                    </div>
                </div>
                 <div class="col-6">
-                        <h3 class="" >PROJECT OVERVIEW</h3>
+                        <h2 class="" >PROJECT OVERVIEW</h2>
                         <p class="">Though their operative bridge lending system functioned adequately, it lacked technological sophistication. Chetu's client believed application development could maximize efficiency and award users more control over the following processes:
                         <ul>
                             <li> Proposal plan creation</li>
@@ -82,7 +82,7 @@
              <div class="container">
                 <div class="flex-row">
                     <div class="col-4 ">
-                        <h3 class="" >THE CHETU APPROACH</h3>
+                        <h2 class="" >THE CHETU APPROACH</h2>
                         <p class="">Because the application was designed to handle large sums of money, secure and certifiable software development was paramount to the future of their firm. Chetu sought to develop software cohesive to the client's preexisting model, streamlining their image across platforms. The Chetu approach resulted in an application that satisfied the real estate company's need for a...
 
                                 User-friendly application that allows fundraisers and borrowers to create multiple portfolios and cases.

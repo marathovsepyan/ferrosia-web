@@ -37,7 +37,7 @@
      <div class="container">
         <div class="flex-row">
             <div class="col-6 web-title">
-                <h3 class="" >CLIENT OVERVIEW</h3>
+                <h2 class="" >CLIENT OVERVIEW</h2>
                 <p class="">Our client operates a large shipment operation in South Florida, providing standard car, truck, and motorized recreational vehicle transportation services. Prior to engagement with Chetu, the client utilized a standard transportation management system (TMS), which functioned as a control hub for managing operations and payment exchanges.
                         Unfortunately their TMS operated inefficiently, and required revamping. Their current system did not properly reflect the client's quality of service, and they sought a more functional system to foster company growth.
                         Ultimately, our client wanted to foster collaboration between venues, suppliers and planners, while allowing planners to retain control over processes.</p>
@@ -59,7 +59,7 @@
                         <img class="w-max" src="../img/project-img2/OPTIMIZES TRANSPORTATION MANAGEMENT SYSTEM/transportation-management-system-ferrosia.com2.jpg" alt="">
                 </div>
                 <div class="col-6 ">
-                        <h3 class="" > PROJECT OVERVIEW</h3>
+                        <h2 class="" > PROJECT OVERVIEW</h2>
                         <p class="">The Problem:
                                 There was extreme disjunction between the various channels and points of interaction, obstructing information access and storage plus hindering cross-channel functionality. The web application was the most debilitating facet, as it was not correctly integrated with their back office accounting software.
                                 The ultimate goal was to seamlessly integrate their platforms together so that all employees and carriers experienced a uniform interface allowing users to obtain and input accurate information.
@@ -76,7 +76,7 @@
              <div class="container" >
                 <div class="flex-row">
                     <div class="col-6">
-                            <h3 class="" >HOW CHETU FIXED THINGS</h3>
+                            <h2 class="" >HOW CHETU FIXED THINGS</h2>
                             <p class="">This venture is ongoing, existing as a continuous effort to maximize functionality in a way that outfits the client's operation. We're accomplishing this by engaging the following processes and technologies.
                                    <br> <b>Technologies Implemented:</b>  <br>
                                     A combination of PHP CORE (Custom MVC), JavaScript, and QuickBooks were utilized in this project.

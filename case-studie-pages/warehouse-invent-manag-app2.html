@@ -37,13 +37,14 @@
         <div class="container">
             <div class="flex-row">
                 <div class="col-6 ">
-                    <h3 class="" >SUPPLY CHAIN AUTOMATION SOFTWARE</h3>
+                    <h2 class="" >SUPPLY CHAIN AUTOMATION SOFTWARE</h2>
                     <p class="">The client has 37+ years of experience providing comprehensive ERP software solutions for wholesale food distributors. On several occasions, they have partnered with industry leaders to offer reliable inventory, traceability, and accounting software to their growing client base.
                             For those operating within a similar consumer landscape, there is no question to the profound impact management automation tools can have on workflow. Throughout Chetu's relationship with the client it was clear that they were completely committed to optimizing workflows of all kind, overcoming system inhibitions with software that fully complies with traceability standards set upon by meat, fish, poultry, grocery, and government agencies.</p>
                 </div>
-
-                <div class="col-6">
-                    <img class="w-max  img-thumbnail" src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com2.png" alt="">
+                <div class="col-6 img-margin-1">
+                   <div class="img-margin" >
+                      <img class="w-max  img-thumbnail" src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com2.png" alt="">
+                  </div>
                 </div>
             </div>
         </div>
@@ -54,11 +55,13 @@
     <div class="container-fluid">
             <div class="container">
             <div class="flex-row">
-                <div class="col-6 ">
+                <div class="col-6 img-margin-1">
+                     <div class="img-margin" >
                         <img class="w-max" src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com3.jpg" alt="">
+                    </div>
                 </div>
                 <div class="col-6">
-                        <h3 class="" >REFINING WAREHOUSE WORKFLOW</h3>
+                        <h2 class="" >REFINING WAREHOUSE WORKFLOW</h2>
                         <p class="">The client wanted to develop a cross-platform application for iOS and Android handheld devices that would allow food distributors across the US and Canada to streamline their operations. The main mission was to deliver pickers with an application that would allow them to operate more efficiently, easing the sales order and barcode scanning processes.
                                 Engineering the application to accurately read barcodes was a project imperative; including this functionality ensures accurate traceability. Customers would have the means to access a product's information, and vendors would be aware of the status of their orders throughout the entirety of the supply chain process.
                                 The client had envisioned an application that facilitated a more automated warehouse environment. At the client's request, the application also needed to be able to perform certain jobs functions for the allocation and/or non-allocation of orders, lot control, and catch weight items. 
@@ -70,12 +73,12 @@
     </div>
 </section>
 
-    <section class="section  ">
+    <section class="section">
         <div class="container-fluid">
             <div class="container">
                 <div class="flex-row">
                     <div class="col-4 ">
-                        <h3 class="" >CHETU USES PHONEGAP FRAMEWORK AS FOUNDATION FOR CUSTOM APP</h3>
+                        <h2 class="" >CHETU USES PHONEGAP FRAMEWORK AS FOUNDATION FOR CUSTOM APP</h2>
                         <p class="">The client entrusted Chetu, a certified software development company with vast experience developing and integrating custom supply chain software, to assist them in bringing their idea to fruition.
                                 Chetu immediately got to work, using the PhoneGap framework in combination with the following programming languages to create a cross-platform application…
                             <ul>   
@@ -86,10 +89,11 @@
                             </ul>   
                                  Chetu's finished deliverable provides real-time, accurate order tracking information needed to successfully operate any food distribution company in today's modernized environment. By automating warehouse operations through the enablement of secure barcode scanning technology, operators can easily manage goods and supplies, allocating orders to calculate precise inventory turnover.</p>
                        </div>
-                        <div class="col-4 web-title ">
-                            <img class="w-max" src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com-coding.png" alt="">
-                        </div>
-                                    
+                        <div class="col-4 img-margin-1">
+                            <div class="img-margin" >
+                                 <img class="w-max" src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com-coding.png" alt="">
+                           </div>
+                      </div>           
                     </div>
                 </div>
             </div>

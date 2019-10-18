@@ -42,7 +42,7 @@
                 </div>
              </div>
             <div class="col-6">
-                <h3 class="" >THE CLIENT | DOCUMENT MANAGEMENT SUPERPOWER</h3>
+                <h2 class="" >THE CLIENT | DOCUMENT MANAGEMENT SUPERPOWER</h2>
                 <p class="">The client operates a web-based service that allows their website visitors to manage their personal or business assets securely from Amazon cloud, maintaining access from anywhere with connectivity and functioning completely free of charge. In essence, they leverage a document management software, automating the manual record-keeping practices their customers are looking to eradicate from their everyday processes.
                         It's no secret that UI/UX can make or break a service, and no matter how intelligent the offerings, customers routinely reject brands because of poor end-user performance. The client enlisted our development services after identifying a lapse in website functionality; they needed to optimize their front-end in a way that paralleled their backend document management software. We were tasked to engineer an aesthetically pleasing UX cohesive to their brand image, an attention-grabbing ploy and customer retention device.
                         Prior to kickoff, the requirements were clearly defined and extensively discussed. We mutually decided to use Drupal 7 considering it is the most stable version available in market and has a large community following. Drupal 7 provides a comprehensive developer toolbox comprised of inbuilt modules for payments, email campaigns, and subscriptions. It allows us to customize third-party extensions according to the client's specific needs.</p>
@@ -58,7 +58,7 @@
        <div class="container">
             <div class="flex-row">
                 <div class="col-6">
-                        <h3 class="" >RETHINKING USER HEIRACHY</h3>
+                        <h2 class="" >RETHINKING USER HEIRACHY</h2>
                         <p class="">After signing up, members acquire a series of benefits and tap into the site's proprietary services. A sign up execute a profile-setup, where an individual profile is created for the member. Users access the document management software through memberships. From the user portal, members are able to create new items and upload media, access documents they previously uploaded, customize their categorization, and manage reminders and membership plans.
                                 Admins are dictated by Super Admin. After receiving permission, admin unlock a new layer of the website. From the Admin layer, admin manage content on the webpages for front-end maintenance, adjusting information on the FAQ and other landing pages. They are able to edit membership plans and export user data into Excel, PDF, or CVS. The website also provides admin with a rich pool of user trends, guiding the client's strategy moving forward. The front-end automatically updates when after admin finalize changes.
                                 The project yielded a powerful document management system, propelled by a modern front-end. We wanted the UX to be as clean as possible, guiding users to their desired functionalities. The hero shot on the homepage contains the sign-up prompt, and below the hero shot, there are three navigation buttons—your information, organized, and stored in the cloud—the portions that receive the most traffic.
@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-6">
-                        <h3 class="" >UPGRADING THE FRONT-END TO DRIVE MEMBER RETENTION</h3>
+                        <h2 class="" >UPGRADING THE FRONT-END TO DRIVE MEMBER RETENTION</h2>
                         <p class="">The client's vision depended on a complex list of programming requirements, which far surpassed basic programming. We needed to develop a website where the client's visitors would be able to sign up and upload their assets in the form of images, video, or documents.
                                 To organize the moving parts, we created a user hierarchy, segmenting users into members, admin and super admin. Admins control member subscriptions and have the power to make system changes, configuring the fields on different forms. All documents will be stored on Amazon.
                                 During the development process we implemented the following technologies…

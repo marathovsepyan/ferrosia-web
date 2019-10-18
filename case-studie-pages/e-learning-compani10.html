@@ -37,7 +37,7 @@
       <div class="container">
         <div class="flex-row">
             <div class="col-6">
-                <h3 class="">THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY</h3>
+                <h2 class="">THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY</h2>
                 <p class="">THE CLIENT │ SPECIALIZED E-LEARNING TECHNOLOGY
                         This client is a leading e-learning company that develops and implements educational technology to improve learning. They have spent 15 years perfecting their products focusing on the needs of associations, nonprofits and government agencies. The Software as a Service (SaaS) Learning Management System (LMS) incorporates content in the form of quizzes, exams, learner-assessments, discussion forums and certifications. The courses are designed to fit the learning preferences of clients using an adult learning theory for revolutionary performance improvement.  
                         Currently the client provides following services:</p>
@@ -69,7 +69,7 @@
                    </div>
                 </div>
                 <div class="col-6  ">
-                        <h3 class="" > CLIENT MERGES WITH MAGENTO E-COMMERCE WEB SERVICE</h3>
+                        <h2 class="" > CLIENT MERGES WITH MAGENTO E-COMMERCE WEB SERVICE</h2>
                         <p class="">During the onset of the clients' relationship with Chetu, the demand for their e-learning product was rising and the need for an updated data tracking mechanism became pertinent. Our team suggested they create a sales report by extending data from their Moodle platform to the Magento Enterprise platform for seamless sales data tracking. The client agreed and requested the sales report retrieve sales data, payment methods, configurable values for targeted reports, save data in an updated database, and generate sales reports gathering the data from Magento, as well as their own platform.
                                 Magento data tracking and order management capabilities provide customers with an exceptional shopping experience by having product inventory sell much easier. It also allows you to adapt to changing customer demands quickly and helps identify bestselling products, to make sure that they are always available for customers to purchase. Customer expectations increase by the day, which is why Magento is one of the top platforms helping e-commerce business stay ahead of their competitors.
                         </p>
@@ -84,7 +84,7 @@
              <div class="container" style="margin-bottom: 80px"> 
                 <div class="flex-row">
                     <div class="col-6 ">
-                            <h3 class="" >CHETU DEVELOPS THE MAGENTO WEB SERVICE SOLUTION</h3>
+                            <h2 class="" >CHETU DEVELOPS THE MAGENTO WEB SERVICE SOLUTION</h2>
                             <p class="">Chetu leveraged the following technologies to carry the client's vision from concept to code:
                                        
                                    <ul>

@@ -37,7 +37,7 @@
       <div class="container">
         <div class="flex-row">
             <div class="col-6 ">
-                <h3 class="" >AIRBNB│VACATION RENTAL POWERHOUSE</h3>
+                <h2 class="" >AIRBNB│VACATION RENTAL POWERHOUSE</h2>
                 <p class="">Airbnb has taken the vacation rental community by storm, allowing property owners to post their rental offerings and directly engage with customers interested in their selection. The most compelling aspect of this platform is its ease of use, from both a tenant and owner perspective. Tenants simply enter their arrival and departure dates, their desired location, and these specifications return all properties relevant to them.
                         There is also a diverse set of search specifications to choose from apart from dates and locations; these range from property type and on-site parking to pet friendliness, alongside at least twenty others. You choose which amenities you cannot live without, and Airbnb does the work for you.
                         Essentially, Airbnb represents the dawn of a new hospitality era, an online marketplace where providers and consumers come together to represent themselves. Currently Airbnb's catalog includes over 4 million listing across the globe, and has overseen at least 260 million short-term stays to date. Given the immense success Airbnb has seen during its 9 years of service, it was no surprise when Chetu began receiving Airbnb integration requests.</p>
@@ -63,7 +63,7 @@
                    </div>
                 </div>
                 <div class="col-6">
-                        <h3 class=""> BI-DIRECTIONAL COMMUNICATION BETWEEN NATIVE SITE AND AIRBNB</h3>
+                        <h2 class=""> BI-DIRECTIONAL COMMUNICATION BETWEEN NATIVE SITE AND AIRBNB</h2>
                         <p class="">One client in particular was hoping to increase their rental property exposure by developing a direct line of bi-directional communication between the client's preexisting site and Airbnb
                                 Chetu constructed a project plan outlining the client's requests; ultimately they were hoping to create a low maintenance gateway between the two entities. Through this gateway, inventory-related information would pass in real-time including specifics such as availability, pricing, and property descriptions.
                                 When renters requested a property through Airbnb, the details would then filter back into their native system, creating a unified set of data. First, Chetu established the need for a custom Web API to pass data between the systems. The client outlined the following data to be considered for transfer:
@@ -94,7 +94,7 @@
              <div class="container">
                 <div class="flex-row">
                     <div class="col-6">
-                            <h3 class="" >WEB API FILTERS INCOMING DATA THROUGH A 3-TIER SYSTEM</h3>
+                            <h2 class="" >WEB API FILTERS INCOMING DATA THROUGH A 3-TIER SYSTEM</h2>
                             <p class="">During the development process Chetu deployed the following technologies…
                                    <ul>
                                        <li>VS 2017</li>

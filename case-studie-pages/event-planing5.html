@@ -37,7 +37,7 @@
       <div class="container">
         <div class="flex-row">
             <div class="col-6">
-                <h3 class="" >THE CLIENT</h3>
+                <h2 class="" >THE CLIENT</h2>
                 <p class="">Chetu's client has been in the event industry for 25+ years. Within that timeframe, our client targeted several pain points in the industry that usually go ignored.
                         What our client realized: most platforms do not facilitate a streamlined communication between event planners, venues and suppliers, creating unnecessary friction and a glut of wasted resources. The client wanted to focus on optimizing workflows for planners to be more productive by giving them the tools to stay organized.
                         Ultimately, our client wanted to foster collaboration between venues, suppliers and planners, while allowing planners to retain control over processes.</p>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class="col-6 ">
-                        <h3 class="" > CHETU'S PROJECT</h3>
+                        <h2 class="" > CHETU'S PROJECT</h2>
                         <p class="">The client addressed the challenge of preserving open channels of communication between planners, venues and suppliers. As an active participant in the event industry, our client observed that most planners input information into an excel sheet, which they then send to the venue and/or supplier, who also makes adjustments.
                                 Manual data entry subjects information to human error and is indicative of an inefficient process. The project dictated a migration toward a scalable and integrated system for event planning; a cloud-based platform to streamline real-time data.
                                 The conceptual framework sought to provide event planners, venues and suppliers with the ability to manage event logistics and data in the cloud in a collaborative manner. In the future, the client envisions incorporating additional event tools such as CRM, task management, budget, sponsorship management and more.
@@ -79,7 +79,7 @@
           <div class="container">
                 <div class="flex-row">
                     <div class="col-6">
-                            <h3 class="" >THE CHETU APPROACH</h3>
+                            <h2 class="" >THE CHETU APPROACH</h2>
                             <p class="">The client did copious amounts of research before approaching Chetu to ensure they brought their idea to the most certified software development company, who could understand and fulfill its potential. Chetu drew on its vast experience developing and integrating custom planning software to create a solution that met and exceeded the client's expectation.
                                     After undergoing extensive correspondence with the client, in order to ensure the project progressed with a unified vision, Chetu developers began translating the concept to code.
                                     The finished event planning software satisfied the client's need for…

@@ -37,7 +37,7 @@
       <div class="container">
         <div class="row-flex">
             <div class="col-6 ">
-                <h3 class="" >CLIENT OVERVIEW</h3>
+                <h2 class="" >CLIENT OVERVIEW</h2>
                 <p class="">Having the product is only half the battle, Chetu realizes the challenge in selecting the most effective avenue or channel to bring that product to market. Our client represented a premium marketplace—the vendor for three brands all with their own broad spectrum of adventurous merchandise, sophisticated flavor melodies ranging from tiramisu to cantaloupe. Their e-commerce presence did not reflect the quality of their goods, and this is where Chetu engineers intervened.
                         The client envisioned two e-commerce applications, with a design intended to optimize user experience for their retail and wholesale customers, a solution that accurately portrayed their unique brand.</p>
             </div>
@@ -56,7 +56,7 @@
                             <img class="w-max" src="../img/project-img2/MAGENTO ECOMMERCE DEVELOPMENT FOR VAPE AND E-LIQUID RETAILER/magento-ecommerce-development-ferrosia.com3.jpeg" alt="">
                  </div>
                 <div class="col-6 web-title">
-                        <h3 class="" > PROJECT OVERVIEW</h3>
+                        <h2 class="" > PROJECT OVERVIEW</h2>
                         <p class="">The Problem:
                                 There was extreme disjunction between the various channels and points of interaction, obstructing information access and storage plus hindering cross-channel functionality. The web application was the most debilitating facet, as it was not correctly integrated with their back office accounting software.
                                 The ultimate goal was to seamlessly integrate their platforms together so that all employees and carriers experienced a uniform interface allowing users to obtain and input accurate information.
@@ -72,7 +72,7 @@
            <div class="container">
                 <div class="row-flex">
                     <div class="col-6">
-                            <h3 class="text-center" >THE CHETU APPROACH</h3>
+                            <h2 class="text-center" >THE CHETU APPROACH</h2>
                             <p class="">Chetu, a Magento partner, encounters this request often, taking concept to code with the intent of igniting a greater brand following, and ultimately, this is what our client sought to gain from our relationship. In order to do so, Chetu implemented and customized the following e-commerce platform.
                                    <br> <b>TECHNOLOGIES USED:</b>  <br>
                                    <ul>

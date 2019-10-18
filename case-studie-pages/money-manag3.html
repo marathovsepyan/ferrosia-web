@@ -36,7 +36,7 @@
     <div class="container">
         <div class="flex-row">
             <div class="col-6">
-                <h3 class="" >WHO IS THE CLIENT?</h3>
+                <h2 class="" >WHO IS THE CLIENT?</h2>
                 <p class="">The client is an American corporation operating a chain of retail gas stations, primarily located in proximity to Walmart stores. This Fortune 500 company's locations vary from small kiosk locations to larger walk-in convenience stores.
                         Larger locations offer top food and beverage brands, with a wide choice of coffee, tea, fountain drinks, ICEEs, fresh food and beer, as well as cigarettes. Another variety of the client's locations feature large localities that measure around 1,200+ square feet, offering a diverse array of products and gas pumps with additional fueling lanes.</p>
             </div>
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-6" style="margin: 50px">
-                        <h3 class="" >THE CHETU APPROACH</h3>
+                        <h2 class="" >THE CHETU APPROACH</h2>
                         <p class="">Because the application was designed to handle large sums of money, secure and certifiable software development was paramount to the future of their firm. Chetu sought to develop software cohesive to the client's preexisting model, streamlining their image across platforms. The Chetu approach resulted in an application that satisfied the real estate company's need for a...
 
                                 User-friendly application that allows fundraisers and borrowers to create multiple portfolios and cases.
@@ -76,7 +76,7 @@
     <div class="container">
             <div class="flex-row">
                 <div class="col-6  ">
-                        <h3 class="" >CHETU ENGINEERS FULL-SERVICE BUSINESS BUDGETING SOFTWARE</h3>
+                        <h2 class="" >CHETU ENGINEERS FULL-SERVICE BUSINESS BUDGETING SOFTWARE</h2>
                         <p class="">Chetu, a certified software development company with vast experience developing and integrating custom software, assisted the client and transitioned their vision into a highly intelligent application.
                                 Chetu utilized the following technologies to transform the client’s concept to code…
                           <ul>
