@@ -60,105 +60,108 @@
 
          <section class="section dev">
                <div class="container">
-                      <div class="s-card2 ">
-                               <div class=" col-sm-4">
+                  <div class="row">
+                      <div class="col-md-6  ">
+                               <div class=" col-md-8">
                                     <h4>Custom Web Application Development </h4>
                                     <p>We are a full-stack software development company. Our back-end developers are experts in Java, PHP, Ruby, Python and SQL, as well as frameworks like Django and Laravel, while our front-end designers know their way around JavaScript, CSS3 and HTML5</p>
                                </div>
-                          <div class=" col-sm-2">
+                          <div class="col-md-4 img-icone">
                               <div class="s-card2__icon-android ">
                                     <img src="../img/web-development/asset-1.png" alt="">
                               </div>
                           </div>
                       </div>
             
-                        <div class="s-card2 ">
-                            <div class=" col-sm-2">
+                        <div class="col-md-6  ">
+                            <div class=" col-md-4 img-icone">
                                 <div class="s-card2__icon-android ">
                                         <img src="../img/web-development/asset-2.png" alt="">
                                 </div>
                             </div>
-                            <div class=" col-sm-4">
+                            <div class=" col-md-8">
                                 <h4>Mobile Web App Programming </h4>
                                 <p>We design responsive and adaptive Progressive Web Apps (PWA), or hybrid apps, that combine the responsive, native feel of an iOS or Android mobile app with the scalability and interoperability of a web app. PWAs include features like push notifications, easy social sharing and superior Indexability.</p>
                             </div>
                         </div>
-                  </div>
+                      </div>
+                 
                   
-                  <div class="container">  
-                          <div class="s-card2 ">
-                                   <div class=" col-sm-4">
+                  <div class="row"> 
+                          <div class="col-md-6  ">
+                                   <div class=" col-md-8">
                                         <h4>Enterprise Web Appst </h4>
                                         <p>Our industry software experts have years of experience building business automation web solutions for a number of verticals. We use custom APIs and our mastery of web services to build web-based automation services for applications like inventory control, digital marketing and customer relationship management.</p>
                                    </div>
-                                    <div class=" col-sm-2">
+                                    <div class=" col-md-4 img-icone">
                                         <div class="s-card2__icon-android">
                                                 <img src="../img/web-development/asset-3.png" alt="">
                                         </div>
                                     </div>
                           </div>
                     
-                            <div class="s-card2 ">
-                                    <div class=" col-sm-2">
+                            <div class="col-md-6  ">
+                                    <div class=" col-md-4 img-icone">
                                         <div class="s-card2__icon-android ">
                                                 <img src="../img/web-development/asset-4.png" alt="">
                                         </div>
                                     </div>
-                                    <div class=" col-sm-4">
+                                    <div class=" col-md-8">
                                         <h4>Website Development and Design </h4>
                                         <p>We build attractive commercial websites that are created with ease of use, SEO, mobile-first responsiveness, conversion optimization, advanced search capabilities, load speed and a modern design aesthetic in mind. We have plenty of experience working with website builders and CMS's, like Wordpress, Joomla and Drupal.</p>
                                     </div>
                             </div>
                       </div>
                      
-                        <div class="container"> 
-                              <div class="s-card2 ">
-                                       <div class=" col-sm-4">
+                        <div class="row"> 
+                              <div class="col-md-6  ">
+                                       <div class=" col-md-8">
                                             <h4>Web Portal Development</h4>
                                             <p>Our web developers program public-facing portals as well as enterprise intranet dashboards that incorporate email and internal messaging, forums, search engines, workflow and task managers, news tickers and multimedia hosting. For private portals we integrate protocols like Role-Based Access Controls (RBAC) and Single Sign-On (SSO).</p>
                                        </div>
-                                        <div class=" col-sm-2">
+                                        <div class=" col-md-4 img-icone">
                                             <div class="s-card2__icon-android ">
                                                     <img src="../img/web-development/asset-5.png" alt="">
                                             </div>
                                         </div>
                               </div>
-                              <div class="s-card2 ">
-                                    <div class=" col-sm-2">
+                              <div class="col-md-6  ">
+                                    <div class=" col-md-4 img-icone">
                                        <div class="s-card2__icon-android ">
                                             <img src="../img/web-development/asset-6.png" alt="">
                                        </div>
                                    </div>
-                                   <div class=" col-sm-4">
+                                   <div class=" col-md-8">
                                        <h4>Animated Web Solutions</h4>
                                        <p>An engaging website or application demands a dynamic, attractive design. Our web design specialists leverage 2D/3D design tools like the Web Graphics Library (WebGL) and Open Graphics Library (OpenGL), as well as several JavaScript and CSS frameworks like Animate.css, Bounce.js and Magic Animations</p>
                                   </div>
                                </div>                 
                         </div> 
-                        <div class="container"> 
-                                <div class="s-card2 ">
-                                         <div class=" col-sm-4">
+                        <div class="row"> 
+                                <div class="col-md-6  ">
+                                         <div class=" col-md-8">
                                               <h4>E-commerce Web Apps</h4>
                                               <p>We build both commercial e-commerce websites designed to optimize customer satisfaction and drive sales, as well as internal web apps for aiding in business automation. Leveraging our partnerships with Magento and Shopify, we can develop and integrate digital storefronts, shopping carts, catalogs and payment solutions using their platforms.</p>
                                          </div>
-                                          <div class=" col-sm-2">
+                                          <div class=" col-md-4 img-icone">
                                               <div class="s-card2__icon-android ">
                                                       <img src="../img/web-development/asset-7.png" alt="">
                                               </div>
                                           </div>
                                 </div>
-                                <div class="s-card2 ">
-                                      <div class=" col-sm-2">
-                                         <div class="s-card2__icon-android ">
+                                <div class="col-md-6  ">
+                                      <div class=" col-md-4 img-icone">
+                                         <div class="s-card2__icon-android  ">
                                               <img src="../img/web-development/asset-8.png" alt="">
                                          </div>
                                      </div>
-                                     <div class=" col-sm-4">
+                                     <div class=" col-md-8">
                                          <h4>Web Integration Services</h4>
                                          <p>Consolidating disparate enterprise web applications helps organizations streamline workflows and simplify mission-critical processes. We provide custom API development and integration services for Service-Oriented Architectures (SOA) using REST and SOAP protocols to facilitate bi-directional JSON and XML communications.</p>
                                     </div>
                                  </div>                 
                           </div>
+                       </div>
               </section>
 
               <section class="section-sm">
@@ -171,28 +174,28 @@
                         <div class="col-sm-3">
                           <div class="f-card">
                               <h4>Apps Developed</h4>
-                              <span class="count">20</span><span>+</span>
+                            <div> <span class="count">20</span><span>+</span></div>
                           </div>
                         </div>
               
                         <div class="col-sm-3">
                           <div class="f-card">
                               <h4>UI/UX</h4>
-                             <span class="count">50</span><span>+</span>
+                             <div><span class="count">50</span><span>+</span></div>
                           </div>
                         </div>
               
                         <div class="col-sm-3">
                           <div class="f-card">
                               <h4>APP Developers</h4>
-                              <span class="count">15</span><span>+</span>
+                             <div> <span class="count">15</span><span>+</span></div>
                           </div>
                         </div>
               
                         <div class="col-sm-3">
                           <div class="f-card">
                               <h4>Happy Clients</h4>
-                              <span class="count">250</span><span>+</span>
+                             <div><span class="count">250</span><span>+</span></div> 
                           </div>
                         </div>
                       </div>
@@ -216,10 +219,10 @@
                                   
                                   <div class="btn-wrap">
                                     <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
-                                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -227,8 +230,8 @@
                           </section>
 
                         <section class="section dev">
-                          <div class=" text-center">
-                                <p>Have you been told your software project is impossible or too difficult? <br>
+                          <div class=" container text-center">
+                                <p >Have you been told your software project is impossible or too difficult? <br>
                                 A lot of our clients heard that before they found us. We welcome the challenge of making your vision a reality. <br>
                                 Ready to get started? <br>
                                 Request a free consultation today</p>

@@ -38,10 +38,10 @@
                         <h2 class="text-red text-center">Dynamic Designs, Smarter Navigation</h2>
                         <p>The key to developing a successful app is marrying the functionality your users demand with an intuitive design and experience that make it as simple as possible to use. Ferrosia’s custom UI/UX design specialists will work closely with you to conceive a mobile, desktop or web app that both satisfies its users and meets your specific business and industry requirements.</p>
                             <div class="btn-wrap">
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                     </div>
                 </div>
@@ -52,52 +52,54 @@
     </header>
 
     <section class="section dev">
-               <div class="container">
-                      <div class="s-card2 ">
-                               <div class=" col-sm-4">
+            <div class="container">
+               <div class="row">
+                      <div class="col-md-6 ">
+                               <div class=" col-md-8">
                                     <h4>Immersive User Interfaces </h4>
                                     <p>We construct exquisitely responsive Graphical User Interfaces (GUI) that include highly responsive elements, 2D/3D animations and embedded media. It's our aim to provide an organic, unified user experience, which we accomplish by collaborating with your stakeholders and IT team to develop a style (including color palettes, logo designs and layouts) that harmonizes with your company culture. All our UI/UX designers are experts in graphic libraries like WebGL and OpenGL.</p>
                                </div>
-                          <div class=" col-sm-2 img-icone">
+                          <div class=" col-md-4 img-icone">
                               <div class="s-card2__icon-android ">
                                     <img src="../img/icons/ui-ux/asset-68.png" alt="">
                               </div>
                           </div>
                       </div>
             
-                        <div class="s-card2 ">
-                            <div class=" col-sm-2 img-icone">
+                        <div class="col-md-6 ">
+                            <div class=" col-md-4 img-icone">
                                 <div class="s-card2__icon-android ">
                                         <img src="../img/icons/ui-ux/asset-71.png" alt="">
                                 </div>
                             </div>
-                            <div class=" col-sm-4">
+                            <div class=" col-md-8">
                                 <h4>Straightforward User Experiences </h4>
                                 <p>A carefully developed user experience is key to the success of an application, whether your intention is to keep consumers engaged with your commercial app or maintain a smooth and consistent workflow for your employees via an enterprise platform. We construct a simple but robust information architecture that streamlines the app's process flow, carefully fine-tuning elements throughout development with the aid of high-fidelity mock-ups and interactive prototypes.</p>
                             </div>
                         </div>
                   </div>
+
                   
-                  <div class="container">  
-                          <div class="s-card2  ">
-                                   <div class=" col-sm-4">
+                  <div class="row">  
+                          <div class="col-md-6  ">
+                                   <div class=" col-md-8">
                                         <h4>IA Planning and Wireframing  </h4>
                                         <p>Creating a user-friendly design and interface begins with identifying primary business goals and KPIs, laying the ground for an Information Architecture (IA) that satisfies users and meets performance goals. We use industry-specific analytical strategies and carefully developed user personas to generate insights that inform our wireframing and data flow structure models.</p>
                                    </div>
-                                    <div class=" col-sm-2 img-icone">
+                                    <div class=" col-md-4 img-icone">
                                         <div class="s-card2__icon-android">
                                                 <img src="../img/icons/ui-ux/asset-69.png" alt="">
                                         </div>
                                     </div>
                           </div>
                     
-                            <div class="s-card2 ">
-                                    <div class=" col-sm-2 img-icone">
+                            <div class="col-md-6">
+                                    <div class="col-md-4 img-icone">
                                         <div class="s-card2__icon-android ">
                                                 <img src="../img/icons/ui-ux/asset-72.png" alt="">
                                         </div>
                                     </div>
-                                    <div class=" col-sm-4">
+                                    <div class=" col-md-8">
                                         <h4>User Testing and QA </h4>
                                         <p>Relentless usability testing is the cornerstone for providing a fully functional user interface and experience. Our UI and GUI testing methodology is designed to optimize element functionality, ease of navigation, user engagement times, information flow, consistency across different environments and implementations, and more. We can perform white or black box user testing, depending on needs.
                                             </p>
@@ -105,31 +107,32 @@
                             </div>
                       </div>
                      
-                        <div class="container"> 
-                              <div class="s-card2 ">
-                                       <div class=" col-sm-4">
+                        <div class="row"> 
+                              <div class="col-md-6 ">
+                                       <div class=" col-md-8">
                                             <h4>Front-End Programming  </h4>
                                             <p>The stunning application interfaces we design are truly brought to life by our front-end development specialists, experts in key front-end languages (HTML5, CSS, JavaScript) and frameworks like jQuery, AngularJS, Node.js and Bootstrap. We make sure our tightly written code is optimized to work on multiple device types and browsers, and we forego programming shortcuts, like compression algorithms, that dampen or limit GUI elements.
                                                 </p>
                                        </div>
-                                        <div class=" col-sm-2 img-icone">
+                                        <div class=" col-md-4 img-icone">
                                             <div class="s-card2__icon-android ">
                                                     <img src="../img/icons/ui-ux/asset-70.png" alt="">
                                             </div>
                                         </div>
                               </div>
-                              <div class="s-card2 ">
-                                    <div class=" col-sm-2 img-icone">
+                              <div class="col-md-6">
+                                    <div class=" col-md-4 img-icone">
                                        <div class="s-card2__icon-android ">
                                             <img src="../img/icons/ui-ux/asset-73.png" alt="">
                                        </div>
                                    </div>
-                                   <div class=" col-sm-4">
+                                   <div class=" col-md-8">
                                        <h4>Mobile UI/UX Development </h4>
                                        <p>As part of our end-to-end mobile app development services, we provide crisp and highly responsive UI designs that fully leverage touchscreen functionality, as well as mobile-first user experiences for mobile (or progressive) web apps. We have experience developing native iOS and Android apps, as well as hybrid and cross-platform apps, leveraging frameworks like Xamarin, Ionic, Appcelerator and PhoneGap.</p>
                                   </div>
                                </div>                 
                         </div>
+                  </div>
               </section>
 
               
@@ -159,15 +162,15 @@
                     </div>
               
                   <div class="container">
-                        <div class="row-flex android-app row-flex-android ">
-                                <div class="s-card2 one-news col-lg-2 col-md-3 col-sm-4 ">
+                        <div class="row android-app row-flex-android ">
+                                <div class="s-card2 one-news col-lg-2 col-md-3 ">
                                     <div class="s-card2__icon2">
                                             <i class="fas fa-comments"></i>
                                     </div>
                                     <h4>User Research  </h4>
                                 </div>
                     
-                                <div class="s-card2 one-news col-lg-2 col-md-3 col-sm-4">
+                                <div class="s-card2 one-news col-lg-2 col-md-3 ">
                                     <div class="s-card2__icon2">
                                             <i class="fab fa-buromobelexperte"></i>
                                     </div>
@@ -175,21 +178,21 @@
                                             Architrcture</h4>      
                                 </div>
                         
-                                <div class="s-card2 one-news col-lg-2 col-md-3 col-sm-4">
+                                <div class="s-card2 one-news col-lg-2 col-md-3">
                                     <div class="s-card2__icon2">
                                             <i class="fas fa-user-circle"></i>
                                     </div>
                                     <h4>Wireframing </h4>
                                 </div>
                     
-                                <div class="s-card2 col-lg-2 col-md-3 col-sm-4">
+                                <div class="s-card2 col-lg-2 col-md-3 ">
                                     <div class="s-card2__icon2">
                                             <i class="fas fa-lightbulb"></i>
                                     </div>
                                     <h4>Visual design</h4>
                                 </div>
                     
-                                <div class="s-card2 col-lg-2 col-md-3 col-sm-4">
+                                <div class="s-card2 col-lg-2 col-md-3 ">
                                     <div class="s-card2__icon2">
                                             <i class="fas fa-edit"></i>
                                     </div>
@@ -199,11 +202,13 @@
                      </div>
                 </section>
                 <section class="section-sm">
+                   <div class="container"> 
                         <div class="s-card2">
                                 <h1>Tool Set</h1>
                                 <p class="center">Our team craftily translates their concepts into wireframes 
                                         and mockups to visually <br> illustrate their ideas and thoughts. </p>
-                        </div>    
+                        </div>   
+                     </div>   
                 </section>
 
 
@@ -297,10 +302,10 @@
                               
                               <div class="btn-wrap">
                                 <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                               </div>
                             </div>
                           </div>

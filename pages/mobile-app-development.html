@@ -1,24 +1,23 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Ferrosia | Home</title>
-
-  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e50000">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="theme-color" content="#ffffff">
-
-  <link rel="stylesheet" href="../fonts/fontawesome/css/fontawesome.css">
-  <link rel="stylesheet" href="../css/owl.carousel.min.css">
-  <link rel="stylesheet" href="../css/main.min.css">
-
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Ferrosia | Home</title>
+      
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e50000">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="theme-color" content="#ffffff">
+      
+        <link rel="stylesheet" href="../fonts/fontawesome/css/fontawesome.css">
+        <link rel="stylesheet" href="../css/owl.carousel.min.css">
+        <link rel="stylesheet" href="../css/main.min.css">
+    </head>
 <body>
 
 <main>
@@ -37,10 +36,10 @@
                   Providing an unmatched level of expertise, we are dedicated to creating exceptional mobile applications of every kind. From 3D Game Apps to Educational Apps, and Business Apps to Embedded Health Apps — no project is too complex!</p>
                   <div class="btn-wrap">
         
-                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                    <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 </div>
               <div class="items__col col-30">
@@ -135,17 +134,7 @@
         </div>
       </section>
 
-        <section class="section dev">
-            <div class="col">  
-                    <div class="s-card2">
-                            <img src="../img/asset-11.png" alt=""> <br> <br>
-                            <h1>Hire Android App Developers</h1>
-                            <p class="center">YWe are committed to Excellence</p>
-                            <p class="center">We specialize in creating digital form factors and mobile app experiences that <br> are secure, scalable and intuitive enough to make life better. <br>
-                                We leverage latest technologies to drive reliable and transformational develop- <br>  ment. Our outcome-based approach delivers applications that exceed user expec- <br> tations and create competitive differentiation.
-                                . </p>
-                    </div>       
-          </section>
+      
 
           <section class="section bg-texture-2">
               <div class="s-title s-title-shadow-left">
@@ -163,10 +152,10 @@
                     
                     <div class="btn-wrap">
                       <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
-                      <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                      <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                      <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                      <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                      <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                      <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                      <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                   </div>
                 </div>
@@ -184,28 +173,28 @@
                       <div class="col-sm-3">
                         <div class="f-card">
                             <h4>Apps Developed</h4>
-                            <span class="count">20</span><span>+</span>
+                           <div> <span class="count">20</span><span>+</span></div>
                         </div>
                       </div>
             
                       <div class="col-sm-3">
                         <div class="f-card">
                             <h4>UI/UX</h4>
-                           <span class="count">50</span><span>+</span>
+                           <div><span class="count">50</span><span>+</span></div>
                         </div>
                       </div>
             
                       <div class="col-sm-3">
                         <div class="f-card">
                             <h4>APP Developers</h4>
-                            <span class="count">15</span><span>+</span>
+                            <div><span class="count">15</span><span>+</span></div>
                         </div>
                       </div>
             
                       <div class="col-sm-3">
                         <div class="f-card">
                             <h4>Happy Clients</h4>
-                            <span class="count">250</span><span>+</span>
+                           <div><span class="count">250</span><span>+</span></div> 
                         </div>
                       </div>
                     </div>

@@ -75,6 +75,10 @@ body {
 					height: 100%;
 				}
 			}
+
+			.navbar-toggle {
+				margin-top: 28px;
+			}
 		}
 
 		.navbar-nav {
@@ -260,6 +264,7 @@ body {
 		}
 
 		.carousel-indicators {
+			bottom: -28px;
 
 			li {
 				width: 18px;
@@ -279,7 +284,10 @@ body {
 }
 // Header END
 
-
+.btn-wrap{
+	margin-top: 15px;
+}
+    
 
 
 	.s-card {
@@ -380,7 +388,8 @@ body {
 
  .s-card2 {
 	text-align: center;
-	
+	padding: -1 30px;
+    margin-bottom: 30px;
 
 
 	&__icon2 {
@@ -399,6 +408,7 @@ body {
 		margin: 30px;
 		margin-right: 15px;
 		margin-left: 15px;
+
 	}
 
 	&__about2{ box-shadow: none;}
@@ -446,6 +456,7 @@ body {
 		padding: 15px;
 		box-shadow: 0 28px 15px -25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.09);
 		margin-top:  5px;
+		margin-right: 10px;
 
 		&:hover {
 			transform: scale(1.1);
@@ -803,6 +814,46 @@ body {
 .img-margin-1 {
 	display: flex;
 }
+.android-app {
+	display: flex;
+	justify-content: center;
+}
+
+.slideshow-container_list {
+	width: 100%;
+}
+
+.btn_case-stud {
+	padding: 16px 0px;
+	font-family: Myriad Pro;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+    display: inline-block;
+    border-radius: 4px;
+    text-align: center;
+    white-space: normal;
+    border: 1px solid transparent;
+    cursor: pointer;
+    box-shadow: 0 3px 7px rgba(0,0,0,.1);
+}
+
+.slides-number {
+	color: #56555a;
+	background-color:white;
+	border-color: white;
+}
+
+.slides-number:hover {
+	color: #D40114;
+	border-bottom: white;
+}
+
+.dot {
+	background-color: white !important;
+}
+
 
 
 
@@ -911,11 +962,14 @@ body {
    		 font-weight: bold;
 		line-height: 1.1;
 			
-		span {
-			padding: 0 10px;
-		}
+
 		li {
+			span {
+				padding: 0 10px;
+			}
 			padding: 5px;
+			display: flex;
+			align-items: center;
 		}
 
 }

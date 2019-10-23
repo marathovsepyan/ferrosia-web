@@ -29,8 +29,8 @@
             </div>
 
 
-        <div class="container-fluid" style="background-color: #f2f2f2">
-         <div class="container">
+  <div class="container-fluid" style="background-color: #f2f2f2">
+        <div class="container">
             <div class="row" >
                 <div class="col-sm-6">
                     <div class="contact-form">
@@ -58,40 +58,47 @@
         </div>
     </div>
 
- <section class="section ">
-    <div class="container">
-        <div class="flex-row address-mob">
-                <div class="col-4">
-                        <div class="part8">
-                            <div class="part8__title">
-                                <h2>One  stop  shop  for  all  your</h2>
-                                <P class="contact-us " > Web, Mobile and Custom Software engineering needs</P>
-                            </div>
+    
 
-                            <div class="contact-row">
-                                <i class="fas fa-envelope ">  </i> 
-                                <span>info@ferrosia.com</span>
-                            </div>
-                            <div class="contact-row">
-                                    <i class="fas fa-phone-alt"></i>
-                                <span>1-747-229-7989</span>
-                            </div>
-                            <div class="contact-row">
-                                    <i class="fas fa-paper-plane"></i>
-                                <span>Visit Our Office: In U.S.</span>
-                            </div>
-                    </div>
-                </div>
+    <section class="section ">
+        <div class="container">
+            <div class="flex-row address-mob">
+                    <div class="col-4">
+                            <div class="part8">
+                                <div class="part8__title">
+                                    <h2>One  stop  shop  for  all  your</h2>
+                                    <P class="contact-us " > Web, Mobile and Custom Software engineering needs</P>
+                                </div>
 
-                <div class="col-6">
-                    <div>
-                        <img class="w-max" src="../img/asset-7.png" alt="">
-                        <p class="address">Address:  8383 Wilshire Blvd Suite 853, Beverly Hills, Ca 90211</p>
+                                <div class="contact-row">
+                                    <i class="fas fa-envelope ">  </i> 
+                                    <span>info@ferrosia.com</span>
+                                </div>
+                                <div class="contact-row">
+                                        <i class="fas fa-phone-alt"></i>
+                                    <span>1-747-229-7989</span>
+                                </div>
+                                <div class="contact-row">
+                                        <i class="fas fa-paper-plane"></i>
+                                    <span>Visit Our Office: In U.S.</span>
+                                </div>
+                                <div class="contact-row">
+                                        <i class="fas fa-paper-plane"></i>
+                                    <span>Visit Our Office: In Armenia</span>
+                                </div>
+                        </div>
                     </div>
-                </div> 
-         </div>
-    </div>
- </section>
+
+                    <div class="col-6">
+                        <div>
+                            <img class="w-max" src="../img/asset-7.png" alt="">
+                            <p class="address">Address:  8383 Wilshire Blvd Suite 853, Beverly Hills, Ca 90211</p>
+                            <p class="address">Address:  Vahagn Davtyan 1/4</p>
+                        </div>
+                    </div> 
+            </div>
+        </div>
+    </section>
 </section>
 
    
@@ -106,6 +113,14 @@
 <script src="../js/csi.min.js"></script>
 <script src="../js/owl.carousel.min.js"></script>
 <script src="../js/main.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeSIb8UAAAAAGtO5u8Mnzh1RWvTxCI63LkzL4kL"></script>
+<script>
+grecaptcha.ready(function() {
+    grecaptcha.execute('6LeSIb8UAAAAAGtO5u8Mnzh1RWvTxCI63LkzL4kL', {action: 'homepage'}).then(function(token) {
+       console.log(token);
+    });
+});
+</script>
 
 
 </body>

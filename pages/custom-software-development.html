@@ -59,56 +59,54 @@
   
            
         <section class="section dev">
-                        <div class="container">
-                          <div class="flex-row management-system">
-                                        <div class="col-sm-6 list-management">
-                                               
-                                                        <ul class="ft-list  management-list ">
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage ">
-                                                                                <img src="../img/icons/icons-ios/asset-4.png" alt="">
-                                                                    </div> 
-                                                                        <span>CMS - Content Management System</span>  
-                                                                </li> 
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage ">
-                                                                                <img src="../img/icons/icons-ios/asset-5.png" alt="">
-                                                                    </div> 
-                                                                        <span>Database</span>  
-                                                                </li>
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage ">
-                                                                                <img src="../img/icons/icons-ios/asset-6.png" alt="">
-                                                                    </div> 
-                                                                        <span>Software Maintenance</span>  
-                                                                </li>
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage ">
-                                                                                <img src="../img/icons/icons-ios/asset-7.png" alt="">
-                                                                    </div> 
-                                                                        <span>CRM -custom relationship management</span>  
-                                                                </li>
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage">
-                                                                                <img src="../img/icons/icons-ios/asset-8.png" alt="">
-                                                                    </div> 
-                                                                        <span>ERP enterprise resource planning</span>  
-                                                                </li>
-                                                                <li> 
-                                                                    <div class="s-card2__ferrosia-advantage">
-                                                                                <img src="../img/icons/icons-ios/asset-9.png" alt="">
-                                                                   </div> 
-                                                                        <span>Migration and Upgrade</span>  
-                                                                 </li>
-                                                         </ul>
-                                                   
-                                                </div>
-                            <div class="col-sm-6 management-list-img">
-                              <img class="w-max" src="../img/asset-23.png" alt="">
-                            </div>
-                          </div>
+           <div class="container">
+                 <div class="flex-row management-system">
+                      <div class="col-sm-6 list-management">                        
+                            <ul class="ft-list  management-list ">
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage ">
+                                                    <img src="../img/icons/icons-ios/asset-4.png" alt="">
+                                        </div> 
+                                            <span>CMS - Content Management System</span>  
+                                    </li> 
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage ">
+                                                    <img src="../img/icons/icons-ios/asset-5.png" alt="">
+                                        </div> 
+                                            <span>Database</span>  
+                                    </li>
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage ">
+                                                    <img src="../img/icons/icons-ios/asset-6.png" alt="">
+                                        </div> 
+                                            <span>Software Maintenance</span>  
+                                    </li>
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage ">
+                                                    <img src="../img/icons/icons-ios/asset-7.png" alt="">
+                                        </div> 
+                                            <span>CRM -custom relationship management</span>  
+                                    </li>
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage">
+                                                    <img src="../img/icons/icons-ios/asset-8.png" alt="">
+                                        </div> 
+                                            <span>ERP enterprise resource planning</span>  
+                                    </li>
+                                    <li> 
+                                        <div class="s-card2__ferrosia-advantage">
+                                                    <img src="../img/icons/icons-ios/asset-9.png" alt="">
+                                        </div> 
+                                            <span>Migration and Upgrade</span>  
+                                        </li>
+                                </ul>                 
                         </div>
-                      </section>
+                                <div class="col-sm-6 management-list-img">
+                                      <img class="w-max" src="../img/asset-23.png" alt="">
+                                </div>
+                     </div>
+                 </div>
+             </section>
 
                       <section class="section-sm">
                             <div class="container">
@@ -123,8 +121,8 @@
                             </div>
 
                                 <div class="container-fluid">
-                                        <div class="row-flex 7-Phases-mob">
-                                                 <div class="s-card2 ">
+                                        <div class="row 7-Phases-mob">
+                                                 <div class="s-card2 col-md-3 ">
                                                     <div class="s-card2__icon2">
                                                         <i class="fas fa-id-card"></i>
                                                     </div>
@@ -132,7 +130,7 @@
                                                         <h5>Planning</h5>
                                                         <p>The purpose of this first phase is to find out the scope of the problem and determine solutions. Resources, costs, time, benefits and other items should be considered here </p>
                                                  </div>
-                                                 <div class="s-card2 ">
+                                                 <div class="s-card2 col-md-3">
                                                      <div class="s-card2__icon2">
                                                         <i class="fas fa-edit"></i>
                                                     </div>
@@ -140,7 +138,7 @@
                                                         <h5>Systems Analysis & Requirements</h5>
                                                         <p>The second phase is where teams consider the functional requirements of the project or solution. It’s also where system analysis takes place - or analyzing the needs of the end users to ensure the new system can meet their expectations.</p>
                                                  </div>
-                                                <div class="s-card2 ">
+                                                <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2">
                                                                 <i class="fab fa-whmcs"></i>
                                                     </div>
@@ -148,7 +146,7 @@
                                                         <h5>Systems Design</h5>
                                                         <p>The third phase describes, in detail, the necessary specifications, features and operations that will satisty the functional requirements of the proposed system which will be in place.</p>
                                                  </div> 
-                                                <div class="s-card2 ">
+                                                <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2">
                                                                 <i class="fas fa-tools"></i>
                                                     </div>
@@ -157,7 +155,7 @@
                                                         <p>Mow the real work begins. The development phase marks the end of the initial section of the process. Additionally, this phase signifies the start of production. The development stage is also characterized by instillation & change</p>
                                                 </div> 
 
-                                                 <div class="s-card2 ">
+                                                 <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2">
                                                                 <i class="fas fa-search"></i>
                                                     </div>
@@ -165,18 +163,18 @@
                                                          <h5>Integration & Testing</h5>
                                                          <p>This phase involves systems integration and system testing (of programs and procedures)normally carried out by a QualityAssurance (QA) professional to determine if the proposed design meets the initial set of business goals. </p>
                                                 </div>
-                                                 <div class="s-card2 ">
+                                                 <div class="s-card2 col-md-3">
                                                      <div class="s-card2__icon2">
-                                                                <i class="fas fa-laptop-code"></i>
-                                                    </div>
+                                                             <i class="fas fa-laptop-code"></i>
+                                                      </div>
                                                         <h2>6</h2>
                                                         <h5>Implementation</h5>
                                                         <p>The sixth phase is when the majority of the code for the program is written, and when the project is put into production by moving the data and components from the old system and placing rhem in the new sysrem via a direct cutover.</p>
-                                                 </div>
-                                                 <div class="s-card2 ">
-                                                     <div class="s-card2__icon2">
-                                                                <i class="fas fa-sliders-h"></i>
-                                                     </div>
+                                                    </div>
+                                                 <div class="s-card2 col-md-3">
+                                                      <div class="s-card2__icon2">
+                                                             <i class="fas fa-sliders-h"></i>
+                                                      </div>
                                                         <h2>7</h2>
                                                         <h5>Operations & Maintenance</h5>
                                                         <p>The last phase is when end users can fine- tune the system, if they wish, to boost performance, add new capabilites or meet additional user requirements.</p>
