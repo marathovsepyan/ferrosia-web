@@ -21,7 +21,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Company <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="../pages/about.html">	Who We Are</a></li>
+            <li><a href="../pages/about-us.html">	Who We Are</a></li>
             
           </ul>
         </li>
@@ -29,17 +29,17 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="../pages/ios.html">iPhone App Development</a></li>
-            <li><a href="../pages/android.html">	Android App Development</a></li>
+            <li><a href="../pages/iphone-app-development.html">iPhone App Development</a></li>
+            <li><a href="../pages/android-app-development.html">Android App Development</a></li>
             <li><a href="../pages/custom-software-development.html">	Custom Software Development</a></li>
             <li><a href="../pages/web-development.html">Web Development </a></li>
-            <li><a href="../pages/uiux.html"> UI/UX Design  </a></li>
-           <li><a href="../pages/specific-developer.html"> On-Demand Developers</a></li>
+            <li><a href="../pages/ui-ux-design-services.html"> UI/UX Design  </a></li>
+           <li><a href="../pages/on-demand-developers.html"> On-Demand Developers</a></li>
            <li><a href="../pages/partner-with-us.html"> Partner With Us </a></li>
           </ul>
         </li>
         <li><a href="../case-studie-pages/case-studies.html">Case Studies</a></li>
-        <li><a href="../pages/pprtfolio.html">Portfolio</a></li>
+        <li><a href="../pages/portfolio.html">Portfolio</a></li>
         <li><a href="../pages/contact-us.html">Contact Us</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->

@@ -24,13 +24,6 @@
     <!--Navigation Bar Include-->
     <div data-include="../components/navigation.html"></div>
 
-   
-    <section class="section dev">
-       <div class="s-title s-title-shadow-left">
-        <h1>Contact form  </h1>
-      </div>
-    </section>
-
 
     <section class="section dev">
         <div class="container">
@@ -114,28 +107,28 @@
                             <div class="col-sm-3">
                               <div class="f-card">
                                   <h4>Apps Developed</h4>
-                                  <span class="count">20</span><span>+</span>
+                                 <div> <span class="count">20</span><span>+</span></div>
                               </div>
                             </div>
                   
                             <div class="col-sm-3">
                               <div class="f-card">
                                   <h4>UI/UX</h4>
-                                 <span class="count">50</span><span>+</span>
+                                 <div><span class="count">50</span><span>+</span></div>
                               </div>
                             </div>
                   
                             <div class="col-sm-3">
                               <div class="f-card">
                                   <h4>APP Developers</h4>
-                                  <span class="count">15</span><span>+</span>
+                                  <div><span class="count">15</span><span>+</span></div>
                               </div>
                             </div>
                   
                             <div class="col-sm-3">
                               <div class="f-card">
                                   <h4>Happy Clients</h4>
-                                  <span class="count">250</span><span>+</span>
+                                  <div><span class="count">250</span><span>+</span></div>
                               </div>
                             </div>
                           </div>
@@ -351,7 +344,7 @@
             
         
         
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="../https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/jquery.spincrement.min.js"></script>
         <script src="../js/csi.min.js"></script>

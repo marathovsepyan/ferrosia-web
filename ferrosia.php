@@ -23,7 +23,7 @@
 
 <main>
   <!--Navigation Bar Include-->
-  <div data-include="./components/navigation.html"></div>
+  <div data-include="components/navigation.html"></div>
 
   <header class="header">
     <div class="container">
@@ -107,7 +107,7 @@
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/apple-icon.svg" alt="">
+           <a href="pages/iphone-app-development.html"> <img src="img/icons/apple-icon.svg" alt=""></a>
           </div>
           <h4>iOS App <br> Development</h4>
         </div>
@@ -116,7 +116,7 @@
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/android-icon.svg" alt="">
+           <a href="pages/android-app-development.html"> <img src="img/icons/android-icon.svg" alt=""></a>
           </div>
           <h4>Android App <br> Development</h4>
         </div>
@@ -125,7 +125,7 @@
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/soft-icon.svg" alt="">
+           <a href="pages/custom-software-development.html"> <img src="img/icons/soft-icon.svg" alt=""> </a>
           </div>
           <h4>Custom Software <br> Development</h4>
         </div>
@@ -134,16 +134,16 @@
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/dev-icon.svg" alt="">
+           <a href="pages/on-demand-developers.html"> <img src="img/icons/dev-icon.svg" alt=""></a>
           </div>
-          <h4>Hire Specific <br> Developers</h4>
+          <h4>On-Demand <br> Developers</h4>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/web-icon.svg" alt="">
+            <a href="pages/web-development.html"><img src="img/icons/web-icon.svg" alt=""></a>
           </div>
           <h4>Web <br> Development</h4>
         </div>
@@ -152,7 +152,7 @@
       <div class="col-lg-2 col-md-3 col-sm-4">
         <div class="s-card">
           <div class="s-card__icon">
-            <img src="img/icons/ui-icon.svg" alt="">
+           <a href="pages/ui-ux-design-services.html"> <img src="img/icons/ui-icon.svg" alt=""></a>
           </div>
           <h4>Ui/UX <br> Development</h4>
         </div>
@@ -169,29 +169,37 @@
           <div class="row">
             <div class="col-sm-3">
               <div class="f-card">
+                <div class="numbers">
                   <h4>Apps Developed</h4>
                   <span class="count">20</span><span>+</span>
               </div>
             </div>
+           </div>
   
             <div class="col-sm-3">
               <div class="f-card">
+               <div class="numbers">
                   <h4>UI/UX</h4>
                  <span class="count">50</span><span>+</span>
               </div>
             </div>
+            </div>
   
             <div class="col-sm-3">
               <div class="f-card">
+                 <div class="numbers">
                   <h4>APP Developers</h4>
                   <span class="count">15</span><span>+</span>
+                </div>
               </div>
             </div>
   
             <div class="col-sm-3">
               <div class="f-card">
+                <div class="numbers">
                   <h4>Happy Clients</h4>
                   <span class="count">250</span><span>+</span>
+               </div>
               </div>
             </div>
           </div>
@@ -215,10 +223,10 @@
           
           <div class="btn-wrap">
             <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
-            <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-            <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-            <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-            <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
           </div>
         </div>
       </div>
@@ -312,10 +320,10 @@
     <div class="container">
       <div class="btn-wrap">
         <a href="" class="btn btn-dark"><i class="fas fa-phone-alt"></i> Call</a>
-        <a href="" class="btn btn-dark btn-icon"><i class="fab fa-facebook-f"></i></a>
-        <a href="" class="btn btn-dark btn-icon"><i class="fab fa-twitter"></i></a>
-        <a href="" class="btn btn-dark btn-icon"><i class="fab fa-instagram"></i></a>
-        <a href="" class="btn btn-dark btn-icon"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://www.facebook.com/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.facebook.com/instagram" class="btn btn-dark btn-icon"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-linkedin-in"></i></a>
       </div>
            <div class="text-center" > 
              <h2>One Stop Shop for all your</h2>
@@ -325,7 +333,7 @@
   </section>
 
   <!--Footer Include-->
-  <div data-include="./components/footer.html"></div>
+  <div data-include="components/footer.html"></div>
 </main>
 
 

@@ -37,10 +37,10 @@
                         <h1 class="text-red">About Us</h1>
                         <p>Ferrosia is a software design and development company that  provides end-to-end development service for web and mobile  development. We work on a wide range of technologies ranging  from open source to proprietary and custom-built solutions.</p>
                             <div class="btn-wrap">
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                                <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                     </div>
                 </div>

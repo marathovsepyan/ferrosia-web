@@ -221,28 +221,28 @@
                           <div class="col-sm-3">
                             <div class="f-card">
                                 <h4>Apps Developed</h4>
-                                <span class="count">20</span><span>+</span>
+                               <div> <span class="count">20</span><span>+</span></div>
                             </div>
                           </div>
                 
                           <div class="col-sm-3">
                             <div class="f-card">
                                 <h4>UI/UX</h4>
-                               <span class="count">50</span><span>+</span>
+                              <div> <span class="count">50</span><span>+</span> </div>
                             </div>
                           </div>
                 
                           <div class="col-sm-3">
                             <div class="f-card">
                                 <h4>APP Developers</h4>
-                                <span class="count">15</span><span>+</span>
+                               <div> <span class="count">15</span><span>+</span></div>
                             </div>
                           </div>
                 
                           <div class="col-sm-3">
                             <div class="f-card">
                                 <h4>Happy Clients</h4>
-                                <span class="count">250</span><span>+</span>
+                               <div> <span class="count">250</span><span>+</span></div>
                             </div>
                           </div>
                         </div>
