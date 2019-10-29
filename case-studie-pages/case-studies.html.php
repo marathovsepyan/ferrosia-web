@@ -25,12 +25,12 @@
     <div data-include="../components/navigation.html"></div>
 
 
- <section class="section ">
+ <section class="section  ">
     <div class="container-fluid">
         <div class="container" >
             <div class="flex-row">
-                <div class="col-6 web-title our-works">
-                        <h1 class="">Our  Work</h1>
+                <div class="col-6 web-title our-works dev">
+                        <h1 class="title-color">Our  Work</h1>
                 </div>
                 <div class="col-4">
                         <img class="w-max" src="../img/project-img/asset 10-100.jpg" alt="">
@@ -50,7 +50,93 @@
     </div>
 </div> -->
 
-<section class="section bg-gray">
+<script>
+    $('#demo').pagination({
+        dataSource: [1, 2, 3, 4, 5, 6, 7, ... , 35],
+        pageSize: 5,
+        autoHidePrevious: true,
+        autoHideNext: true,
+        callback: function(data, pagination) {
+            // template method of yourself
+            var html = template(data);
+            dataContainer.html(html);
+        }
+    })
+</script>
+
+<style>
+* {box-sizing: border-box}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  list-style: none;
+  margin: 0 2px;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+
+<!-- <section class="section bg-gray slideshow-section1">
     <div class="container list-case-studies pager-list">
             <div class="row">
               <div class="col-md-4">
@@ -79,7 +165,7 @@
      
 
        
-                <div class="container pager-list ">
+                <div class="container pager-list">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="thumbnail">
@@ -104,9 +190,10 @@
                         </div>
                     </div>
                 </div>
+            </section>
          
 
-           
+                <section class="section bg-gray slideshow-section2">
                     <div class="container pager-list2">
                         <div class="row">
                             <div class="col-md-4">
@@ -132,52 +219,49 @@
                             </div>
                         </div>
                     </div>
-               
-
-            
 
                   
-                            <div class="container pager-list2">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="thumbnail">
-                                                <img src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com2.jpg" alt="Nature" style="width:100%">
-                                                <p class="text-center">E-LEARNING COMPANY CONNECTS WITH MAGENTO WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES</p>
-                                            <a href="../case-studie-pages/e-learning-compani10.html" class="btn btn-info" role="button">READ MORE</a>
-                                        </div>
+                        <div class="container pager-list2">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                            <img src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com2.jpg" alt="Nature" style="width:100%">
+                                            <p class="text-center">E-LEARNING COMPANY CONNECTS WITH MAGENTO WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES</p>
+                                        <a href="../case-studie-pages/e-learning-compani10.html" class="btn btn-info" role="button">READ MORE</a>
                                     </div>
-                                    <div class="col-md-4">
-                                        <div class="thumbnail">
-                                            <img src="../img/project-img2/DOCUMENT MANAGEMENT SOFTWARE/document-management-software-ferrosia.com1.jpg" alt="Nature" style="width:100%">
-                                            <p class="text-center">BRIDGING FRONT-END AND BACK-END FOR DOCUMENT MANAGEMENT SOFTWARE</p>
-                                            <a href="../case-studie-pages/bridging-front-end11.html" class="btn btn-info read-more" role="button">READ MORE</a>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-4">
-                                            <div class="thumbnail">
-                                                <img src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com1.jpg" alt="Fjords" style="width:100%">
-                                                <p class="text-center">COMPUTER SOFTWARE COMPANY OUTSOURCES LOYALTY APP DEVELOPMENT WITH CHETU</p>
-                                                <a href="../case-studie-pages/computer-software-company14.html" class="btn btn-info" role="button">READ MORE</a>
-                                            </div>
-                                     </div>
-                                  
                                 </div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <img src="../img/project-img2/DOCUMENT MANAGEMENT SOFTWARE/document-management-software-ferrosia.com1.jpg" alt="Nature" style="width:100%">
+                                        <p class="text-center">BRIDGING FRONT-END AND BACK-END FOR DOCUMENT MANAGEMENT SOFTWARE</p>
+                                        <a href="../case-studie-pages/bridging-front-end11.html" class="btn btn-info read-more" role="button">READ MORE</a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                        <div class="thumbnail">
+                                            <img src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com1.jpg" alt="Fjords" style="width:100%">
+                                            <p class="text-center">COMPUTER SOFTWARE COMPANY OUTSOURCES LOYALTY APP DEVELOPMENT WITH CHETU</p>
+                                            <a href="../case-studie-pages/computer-software-company14.html" class="btn btn-info" role="button">READ MORE</a>
+                                        </div>
+                                    </div>
+                                
                             </div>
+                        </div>
                       
 
                        
                                 <div class="container">
                                     <div class="row">
-                                        <!-- <div class="col-md-4">
+                                        <div class="col-md-4">
                                         <div class="thumbnail">
                                             <img src="../img/project-img/Screenshot_20.png" alt="Lights" style="width:100%">
                                             <p class="text-center">CLIENT RECONSTRUCTS HOTEL COMMUNICATION NETWORK WITH SIP CALLING APP</p>
                                             <a href="../case-studie-pages/client-reconstructs-hotel13.html" class="btn btn-info" role="button">READ MORE</a>
                                         </div>
-                                        </div> -->
+                                        </div>
 
-                                          <!-- <div class="col-md-4">
+                                         <div class="col-md-4">
                                     <div class="thumbnail">
                                         <img src="../img/project-img/Screenshot_11.png" alt="Fjords" style="width:100%">
                                         <p class="text-center">CONSUMER MARKETPLACE REVAMPS BIGCOMMERCE SHOPPING CART</p>
@@ -192,19 +276,182 @@
                                             <a href="../case-studie-pages/computer-software-company14.html" class="btn btn-info" role="button">READ MORE</a>
                                         </div>
                                         </div> -->
-                                    </div>
+                                    <!-- </div>
                                 </div>
                             
-                      </section>
+                      </section> -->
         
-           <div class="container">               
+           <!-- <div class="container">               
                 <ul class="pager">
                     <li><a href="pager-list">Previous</a></li>
                     <li><a href="#">1</a></li>
                     <li><a href="#">2</a></li>
                     <li><a href="pager-list2">Next</a></li>
                 </ul>
-            </div> 
+            </div>  -->
+
+            <div class="slideshow-container_list">
+                    <div class="mySlides fade_1"> 
+                        <section class="section bg-gray">
+                                <div class="container list-case-studies pager-list">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/REAL ESTATE APPLICATION THAT SIMPLIFIES BRIDGE LOANS/real-estate-bridge-loans-application-ferrosia.com1.png" alt="Lights" style="width:100%  ">
+                                                    <p class="text-center  ">CHETU DEVELOPS REAL ESTATE APPLICATION THAT SIMPLIFIES BRIDGE LOANS </p>
+                                                    <a href="../case-studie-pages/real-estate1.html.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/WAREHOUSE INVENTORY MANAGEMENT APP PROJECT/warehouse-inventory-management-application-Ferrosia.com1.jpg" alt="Nature" style="width:100%">
+                                                    <p class="text-center">ERP PROVIDER RECRUITS CHETU FOR WAREHOUSE INVENTORY MANAGEMENT APP PROJECT</p>
+                                                    <a href="../case-studie-pages/warehouse-invent-manag-app2.html" class="btn_case-stud btn-info read-more" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/CONVIENENCE STORE CHAIN RETHINKS MONEY MANAGEMENT/custom-budget-application-Ferrosia.com2.webp" alt="Fjords" style="width:100%">
+                                                    <p class="text-center">CONVIENENCE STORE CHAIN RETHINKS MONEY MANAGEMENT WITH CUSTOM BUDGET APPLICATION</p>
+                                                    <a href="../case-studie-pages/money-manag3.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+            
+                                    <div class="container pager-list">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/FURNITURE MANUFACTURER BRIDGES INVENTORY MANAGEMENT/inventory-management-software-solutions-ferrosia.com1.jpg" alt="Lights" style="width:100%">
+                                                    <p class="text-center">FURNITURE MANUFACTURER BRIDGES INVENTORY MANAGEMENT AND E-COMMERCE WITH MAGENTO SOLUTIONS</p>
+                                                    <a href="../case-studie-pages/furniture-manufacturer4.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/EVENT PLANNING INEFFICIENCIES WITH CUSTOM SOLUTIONS/event-planning-software-ferrosia.com1.jpg" alt="Nature" style="width:100%">
+                                                    <p class="text-center">CHETU ADDRESSES EVENT PLANNING INEFFICIENCIES WITH CUSTOM SOLUTIONS</p>
+                                                    <a href="../case-studie-pages/event-planing5.html" class="btn_case-stud btn-info read-more" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/OPTIMIZES TRANSPORTATION MANAGEMENT SYSTEM/transportation-management-system-ferrosia.com1.png" alt="Fjords" style="width:100%">
+                                                    <p class="text-center">CHETU SIMPLIFIES USER EXPERIENCE AND OPTIMIZES TRANSPORTATION MANAGEMENT SYSTEM</p>
+                                                    <a href="../case-studie-pages/transpaortion-managment-system6.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </section>
+                    </div>
+                    
+                    <div class="mySlides fade_2">
+                        <section class="section bg-gray ">
+                                <div class="container pager-list2">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="thumbnail">
+                                                <img src="../img/project-img2/MAGENTO ECOMMERCE DEVELOPMENT FOR VAPE AND E-LIQUID RETAILER/magento-ecommerce-development-ferrosia.com1.jpg" alt="Lights" style="width:100%">
+                                                <p class="text-center">CHETU PROVIDES MAGENTO ECOMMERCE DEVELOPMENT FOR VAPE AND E-LIQUID RETAILER</p>
+                                                <a href="../case-studie-pages/ecommerce-develop-for-vape7.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="thumbnail">
+                                                <img src="../img/project-img2/HELPS CLIENT REACH GLOBAL RENTAL MARKETS WITH AIRBNB API INTEGRATIONS/rental-market-with-airbnb-api-integreations-ferrosia.com1.jpg" alt="Nature" style="width:100%">
+                                                <p class="text-center">CHETU HELPS CLIENT REACH GLOBAL RENTAL MARKETS WITH AIRBNB API INTEGRATIONS</p>
+                                                <a href="../case-studie-pages/client-reache-global-rental8.html" class="btn_case-stud btn-info read-more" role="button">READ MORE</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="thumbnail">
+                                                <img src="../img/project-img2/MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM/payroll-application-solutions-ferrosia.com1.jpg" alt="Fjords" style="width:100%">
+                                                <p class="text-center">MULTI-TENANT PAYROLL APP OPENS NEW REVENUE STREAM WITH KRONOS WORKFORCE MANAGEMENT SYSTEM</p>
+                                                <a href="../case-studie-pages/multi-trnanat-payroll-app9.html.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+            
+                                <div class="container pager-list2">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="thumbnail">
+                                                    <img src="../img/project-img2/WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES/e-learning-software-development-Ferrosia.com2.jpg" alt="Nature" style="width:100%">
+                                                    <p class="text-center">E-LEARNING COMPANY CONNECTS WITH MAGENTO WEB SERVICE TO IMPROVE SALES DATA TRACKING EFFICIENCIES</p>
+                                                <a href="../case-studie-pages/e-learning-compani10.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="thumbnail">
+                                                <img src="../img/project-img2/DOCUMENT MANAGEMENT SOFTWARE/document-management-software-ferrosia.com1.jpg" alt="Nature" style="width:100%">
+                                                <p class="text-center">BRIDGING FRONT-END AND BACK-END FOR DOCUMENT MANAGEMENT SOFTWARE</p>
+                                                <a href="../case-studie-pages/bridging-front-end11.html" class="btn_case-stud btn-info read-more" role="button">READ MORE</a>
+                                            </div>
+                                        </div>
+        
+                                        <div class="col-md-4">
+                                                <div class="thumbnail">
+                                                    <img src="../img/project-img2/SOFTWARE COMPANY OUTSOURCES LOYALTY APP/mobile-loyalty-app-ferrosia.com1.jpg" alt="Fjords" style="width:100%">
+                                                    <p class="text-center">COMPUTER SOFTWARE COMPANY OUTSOURCES LOYALTY APP DEVELOPMENT WITH CHETU</p>
+                                                    <a href="../case-studie-pages/computer-software-company14.html" class="btn_case-stud btn-info" role="button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </section>              
+                    </div> 
+              </div>
+                   
+              <br>
+                    
+              <div style="text-align:center">
+                    <span onclick="plusSlides(-1)">
+                            <a href="#fade_2" aria-label="Previous" class="slides-number">
+                            <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </span>
+                      <span class="dot active" onclick="currentSlide(1)"><li><a href="#fade_1" class="slides-number">1</a></li></span> 
+                      <span class="dot" onclick="currentSlide(2)"> <li><a href="#fade_2" class="slides-number">2</a></li></span> 
+                      <span onclick="plusSlides(1)">
+                            <a href="#fade_1" aria-label="Next" class="slides-number">
+                                <span aria-hidden="true" class="">&raquo;</span>
+                            </a>
+                      </span>     
+             </div>
+             <script>
+                    var slideIndex = 1;
+                    showSlides(slideIndex);
+                    
+                    function plusSlides(n) {
+                      showSlides(slideIndex += n);
+                    }
+                    
+                    function currentSlide(n) {
+                      showSlides(slideIndex = n);
+                    }
+                    
+                    function showSlides(n) {
+                        // console.log(n)
+                        // if(n<=0 || n>=2) { return }
+                      var i;
+                      var slides = document.getElementsByClassName("mySlides");
+                      var dots = document.getElementsByClassName("dot");
+                      if (n > slides.length) {slideIndex = 1}    
+                      if (n < 1) {slideIndex = slides.length}
+                      for (i = 0; i < slides.length; i++) {
+                          slides[i].style.display = "none";  
+                      }
+                      for (i = 0; i < dots.length; i++) {
+                          dots[i].className = dots[i].className.replace(" active", "");
+                      }
+                      slides[slideIndex-1].style.display = "block";  
+                      dots[slideIndex-1].className += " active";
+                    }
+                    </script>
 
             <section class="section teal-bg-section contact-us-home contact-us-home-height-auto">
                 <div class="container-fluid" >
@@ -221,9 +468,6 @@
 
             </section>
             
-
-
-
 
 
     <div data-include="../components/footer.html"></div>

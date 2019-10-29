@@ -33,12 +33,12 @@
               <div class="flex-row">
                 <div class="col-6">
                   <div class="dev__content text-center">
-                        <h2>Custom Software Development</h2>
+                        <h1 class="title-color ">Custom Software Development</h1>
                         <p class="center">
                                 Can’t find the right software to help your business? <br>
                                 We build Custom Software that unblocks Business Bottlenecks and boosts Productivity
                             </p>
-                       <h3>We love Unique Challenges</h3>
+                       <h3 class="title-color">We love Unique Challenges</h3>
                        <p class="center">
                                 From industry-compliant custom software to flexible teaching and training platforms, we can work with you to 
                                 develop programming solutions that address your specific needs. Let’s work together on your project, 
@@ -46,6 +46,12 @@
                                 industry below, let us know what you need. Lots of the work we 
                                 do doesn’t fit into a single category.
                       </p>
+                      <div class="btn-wrap">
+                            <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
                   </div>
                 </div>
                 <div class="col-4">
@@ -110,13 +116,8 @@
 
                       <section class="section-sm">
                             <div class="container">
-                                <div class="s-title  text-center">
-                                     <h4 class="center">Software Development Lifecycle </h4>
-                                    <h2>7 Phases of the system-development life cycle</h2>
-                                    <p class="center">
-                                                The System Development Life Cycle(SDLC for short) <br>
-                                                is a multistep, iterayive process, struced in a methodical way
-                                        </p>
+                                <div class="s-title-shadow text-center">
+                                     <h1 class="center">Software Development Lifecycle </h1>
                                 </div> 
                             </div>
 
@@ -124,7 +125,7 @@
                                         <div class="row 7-Phases-mob">
                                                  <div class="s-card2 col-md-3 ">
                                                     <div class="s-card2__icon2">
-                                                        <i class="fas fa-id-card"></i>
+                                                        <i class="fas fa-id-card  icon-color"></i>
                                                     </div>
                                                         <h2>1</h2>
                                                         <h5>Planning</h5>
@@ -138,8 +139,8 @@
                                                         <h5>Systems Analysis & Requirements</h5>
                                                         <p>The second phase is where teams consider the functional requirements of the project or solution. It’s also where system analysis takes place - or analyzing the needs of the end users to ensure the new system can meet their expectations.</p>
                                                  </div>
-                                                <div class="s-card2 col-md-3">
-                                                    <div class="s-card2__icon2">
+                                                 <div class="s-card2 col-md-3">
+                                                    <div class="s-card2__icon2 icon-color">
                                                                 <i class="fab fa-whmcs"></i>
                                                     </div>
                                                         <h2>3</h2>

@@ -31,8 +31,14 @@
         <div class="flex-row management-system">
                       <div class="col-sm-6 list-management">
                             <div >   
-                                <h2 class="text-center">Partner With Us</h2>
+                                <h1 class="text-center title-color">Partner With Us</h1>
                                 <p class="text-center">Cyber Infrastructure Partnership Program comprises of two beneficial partnerships that are specifically  designed to meet the business requirements of small to medium and large enterprises. Ferrosia is  always excited to forge strong partnerships with ambitious organizations that aspire to empower their  business with cutting-edge technology. CIS, being at the forefront of technology and innovation, assists  businesses in achieving their short-term as well as long-term goals.</p>
+                                <div class="btn-wrap">
+                                        <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                                         <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                                         <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                        <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                                 </div>   
                             </div>       
                      </div>
                      
@@ -40,12 +46,6 @@
             <img class="w-max" src="../img/asset -11-100.jpg" alt="">
           </div>
         </div>
-        <div class="btn-wrap">
-                <a href="" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
-                 <a href="" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                 <a href="" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
-                <a href="" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
-            </div>   
       </div>
     </section>
 

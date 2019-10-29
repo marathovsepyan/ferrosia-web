@@ -13,10 +13,13 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e50000">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
-  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <link rel="stylesheet" href="../fonts/fontawesome/css/fontawesome.css">
     <link rel="stylesheet" href="../css/owl.carousel.min.css">
     <link rel="stylesheet" href="../css/main.min.css">
+    <link rel="stylesheet" href="media.css">
+
 </head>
 <body>
     
@@ -34,10 +37,17 @@
                             We help our clients with development of high performance, <br>
                             secure, and scalable iOS mobile apps. <br>
                     </p>
-                    <h3>Transform Your Idea By Hiring <br> Our Experts iPhone App Developers</h3>
+                    <h2 class="title-color " >Transform Your Idea By Hiring <br> Our Experts iPhone App Developers</h2>
                     <p class="center text-center">iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs. If you are looking for iPhone app development then you should hire the best iPhone app development company like Ferrosia that can convert your dream app idea into reality.</p>
-                </div>
+                    <div class="btn-wrap">
+                        <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                  </div>
             </div>
+            
             <div class="col-4">
                   <img class="w-max" src="../img/asset-14-100.jpg" alt="">
             </div>
@@ -64,8 +74,8 @@
                     </div> 
                 </div> 
             </section> -->
-       
-                    <div class=" text-center">
+            <section class="section dev">
+                    <div class=" s-title-shadow text-center">
                             <h1>iOS App Development Services</h1>
                     </div>
                     <div class="container">
@@ -76,7 +86,7 @@
                                             <p>Working with best development models <br> & well-defined process</p> 
                                         <li>  Standards  </li>
                                             <p>UI/UX designs as per Apple <br> recommendations</p> 
-                                        <li> Aestheticv </li>
+                                        <li> Aesthetic </li>
                                             <p>Pixel perfect design implementation</p> 
                                         <li>   Compatibility  </li>
                                             <p>Universal apps compatible with <br> iPhone & iPad </p>
@@ -87,7 +97,7 @@
                                         <li> Quality </li>
                                             <p>Extensive testing on real phones </p> 
                                         <li> Support </li>
-                                            <p>Handling app submission processtill <br> approval on App Storev </p> 
+                                            <p>Handling app submission process till <br> approval on App Store  </p> 
                                 </ul>
                         </div>
                         <div class="col-6">
@@ -95,6 +105,7 @@
                         </div>
                       </div>
                     </div>
+                  </section>
               
 
                   <section class="section-sm">
@@ -148,33 +159,33 @@
                                     <ul class="ft-list  iOS-list">
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fab fa-apple"></i>
+                                                       <i class="fab fa-apple icon-colors"></i>
                                                 </div> 
-                                                    <span>Expert iOS Developers</span>  
+                                                <span  class="ios-s-card-text"><div>Expert iOS Developers </div> </span>  
                                             </li> 
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-file-alt"></i>
+                                                        <i class="fas fa-file-alt icon-colors"></i>
                                                 </div> 
-                                                    <span>Information Confidentiality</span>  
+                                                <span  class="ios-s-card-text"><div > Information Confidentiality</div> </span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-compress-arrows-alt"></i>
+                                                        <i class="fas fa-compress-arrows-alt icon-colors"></i>
                                                 </div> 
-                                                    <span>Flexible Engagement Models</span>  
+                                                <span class="ios-s-card-text"> <div > Flexible Engagement Models</div> </span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-folder-open"></i>
+                                                        <i class="fas fa-folder-open icon-colors"></i>
                                                 </div> 
-                                                    <span>Quality-Driven Approach</span>  
+                                                <span  class="ios-s-card-text"> <div class="ios-s-card-text"> Quality-Driven Approach </div></span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage">
-                                                        <i class="fas fa-wallet"></i>
+                                                        <i class="fas fa-wallet icon-colors"></i>
                                                 </div> 
-                                                    <span>Competitive Pricing</span>  
+                                                <span  class="ios-s-card-text"> <div class="ios-s-card-text"> Competitive Pricing </div></span>  
                                             </li>
                                      </ul>
                             </div>
@@ -183,33 +194,33 @@
                                     <ul class="ft-list  iOS-list">
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-hands-helping"></i>
+                                                     <i class="fas fa-hands-helping icon-colors"></i>
                                                 </div> 
-                                                    <span>Continuous Support</span>  
+                                                <span> <div class="ios-s-card-text"> Continuous Support </div></span>  
                                             </li> 
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-pen-nib"></i>
+                                                        <i class="fas fa-pen-nib icon-colors"></i>
                                                 </div> 
-                                                    <span>Compelling UI/UX Design</span>  
+                                                    <span> <div class="ios-s-card-text"> Compelling UI/UX Design</div> </span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-clock"></i>
+                                                        <i class="fas fa-clock icon-colors"></i>
                                                 </div> 
-                                                    <span>On-time Project Delivery</span>  
+                                                    <span> <div class="ios-s-card-text"> On-time Project Delivery</div> </span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage ">
-                                                        <i class="fas fa-chart-pie"></i>
+                                                        <i class="fas fa-chart-pie icon-colors"></i>
                                                 </div> 
-                                                    <span>Diverse Industry Experience</span>  
+                                                    <span> <div class="ios-s-card-text"> Diverse Industry Experience</div> </span>  
                                             </li>
                                             <li> 
                                                 <div class="s-card2__ferrosia-advantage">
-                                                        <i class="fas fa-tools"></i>
+                                                        <i class="fas fa-tools icon-colors"></i>
                                                 </div> 
-                                                    <span>Latest Development Tools</span>  
+                                                    <span> <div class="ios-s-card-text"> Latest Development Tools </div></span>  
                                             </li>
                                      </ul>
                             </div>
@@ -334,23 +345,14 @@
                   </div>
                   </section>
                         
-                  
-
-            
-
-
             <div data-include="../components/footer.html"></div>
         </main>
-            
-        
-        
-        <script src="../https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/jquery.spincrement.min.js"></script>
         <script src="../js/csi.min.js"></script>
         <script src="../js/owl.carousel.min.js"></script>
         <script src="../js/main.js"></script>
-        
-        
-        </body>
-        </html>
+      </body>
+      </html>

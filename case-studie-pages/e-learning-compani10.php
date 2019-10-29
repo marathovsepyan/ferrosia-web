@@ -122,10 +122,6 @@
 
 
 
-   
-
-
-
 
 
     <div data-include="../components/footer.html"></div>

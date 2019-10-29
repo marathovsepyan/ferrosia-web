@@ -41,8 +41,8 @@
           <div class="item active">
             <div class="items carousel-divs-mob">
               <div class="items__col col-50">
-                <h1 class="text-red">One stop shop for all your</h1>
-                <span class="text-red text-xs text-bold text-center">Web, Mobile and Embedded software engineering needs</span>
+                <h1 class="text-red">One Stop Shop for All Your</h1>
+                <span class="text-red text-xs text-bold text-center">Web, Mobile and Embedded Software Engineering Needs</span>
                 <p>Deep skills, robust process and flexibility to develop paramount solutions. World-Class Software Development Company We understand your target market and how digitalism has disrupted your industry. By aligning our programmers and project managers by vertical, we're able to match you with a team attune to the technology required to ignite evolution. We stick to the latest industry trends and quality requirements to deliver powerful and secure software that fits corporate environments perfectly and brings positive user experience.</p>
               </div>
               <div class="items__col col-50">
@@ -225,7 +225,7 @@
             <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
             <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
             <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-            <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
             <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
           </div>
         </div>
@@ -242,10 +242,10 @@
       <div class="flex-row">
         <div class="col-4">
           <div class="dev__content">
-            <a href="" class="btn btn-default mb-40">50+ ENGINEERS FULLY AT YOUR SERVICE</a>
+            <a href="" class="btn btn-default mb-40">20+ ENGINEERS FULLY AT YOUR SERVICE</a>
             <p>Ferrosia is a software design and development company that provides end-to-end development service for web and mobile development. We work on a wide range of technologies ranging from open source to proprietary
               and custom-built solutions.</p>
-            <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 50+ IT professionals. </p>
+            <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 20+ IT professionals. </p>
           </div>
         </div>
         <div class="col-6">
@@ -322,11 +322,11 @@
         <a href="" class="btn btn-dark"><i class="fas fa-phone-alt"></i> Call</a>
         <a href="https://www.facebook.com/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-facebook-f"></i></a>
         <a href="https://twitter.com/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-twitter"></i></a>
-        <a href="https://www.facebook.com/instagram" class="btn btn-dark btn-icon"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.instagram.com/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-instagram"></i></a>
         <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-dark btn-icon"><i class="fab fa-linkedin-in"></i></a>
       </div>
            <div class="text-center" > 
-             <h2>One Stop Shop for all your</h2>
+             <h2>One Stop Shop for All Your</h2>
             <p class="">Web, Mobile and Custom Software engineering needs</p>
           </div>
     </div>

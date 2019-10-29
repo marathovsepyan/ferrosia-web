@@ -25,12 +25,12 @@
     <div data-include="../components/navigation.html"></div>
 
 
- <section class="section ">
+ <section class="section  ">
     <div class="container-fluid">
         <div class="container" >
             <div class="flex-row">
-                <div class="col-6 web-title our-works">
-                        <h1 class="">Our  Work</h1>
+                <div class="col-6 web-title our-works dev">
+                        <h1 class="title-color">Our  Work</h1>
                 </div>
                 <div class="col-4">
                         <img class="w-max" src="../img/project-img/asset 10-100.jpg" alt="">
@@ -48,9 +48,24 @@
                 </div> 
             </div>
     </div>
-</div> --><style>
+</div> -->
+
+<script>
+    $('#demo').pagination({
+        dataSource: [1, 2, 3, 4, 5, 6, 7, ... , 35],
+        pageSize: 5,
+        autoHidePrevious: true,
+        autoHideNext: true,
+        callback: function(data, pagination) {
+            // template method of yourself
+            var html = template(data);
+            dataContainer.html(html);
+        }
+    })
+</script>
+
+<style>
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
 
@@ -394,8 +409,18 @@ img {vertical-align: middle;}
               <br>
                     
               <div style="text-align:center">
-                      <span class="dot" onclick="currentSlide(1)"><li><a href="#fade_1" class="slides-number">1</a></li></span> 
-                      <span class="dot" onclick="currentSlide(2)"> <li><a href="#fade_2" class="slides-number">2</a></li></span>      
+                    <span onclick="plusSlides(-1)">
+                            <a href="#fade_2" aria-label="Previous" class="slides-number">
+                            <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </span>
+                      <span class="dot active" onclick="currentSlide(1)"><li><a href="#fade_1" class="slides-number">1</a></li></span> 
+                      <span class="dot" onclick="currentSlide(2)"> <li><a href="#fade_2" class="slides-number">2</a></li></span> 
+                      <span onclick="plusSlides(1)">
+                            <a href="#fade_1" aria-label="Next" class="slides-number">
+                                <span aria-hidden="true" class="">&raquo;</span>
+                            </a>
+                      </span>     
              </div>
              <script>
                     var slideIndex = 1;
@@ -410,6 +435,8 @@ img {vertical-align: middle;}
                     }
                     
                     function showSlides(n) {
+                        // console.log(n)
+                        // if(n<=0 || n>=2) { return }
                       var i;
                       var slides = document.getElementsByClassName("mySlides");
                       var dots = document.getElementsByClassName("dot");

@@ -38,7 +38,7 @@
         
                     <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
                     <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 </div>
@@ -110,7 +110,7 @@
               </div>
               <div class=" col-sm-8 getting-start-items">
                   <h4>No-Cost Consultingv  </h4>
-                  <p>We start with understanding your complete technology needs and require- <br>   ments. We involve technology and subject matter experts so that we can <br> define an optimal technical and business solution that meets your needs, <br> budget, and long-term objectives</p>
+                  <p>We start with understanding your complete technology needs and require- <br>   ments. We involve technology and subject matter experts so that we can <br> define an optimal technical and business solution that meets your needs, <br> budget, and long-term objectives.</p>
              </div>
           </div>
         </div>
@@ -154,7 +154,7 @@
                       <a href="" class="btn btn-white"><i class="fas fa-phone-alt"></i> Call</a>
                       <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                       <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                      <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                      <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
                       <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                   </div>
@@ -318,7 +318,7 @@
 </main>
 
 
-<script src="../https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="../js/bootstrap.min.js"></script>
 <script src="../js/jquery.spincrement.min.js"></script>
 <script src="../js/csi.min.js"></script>

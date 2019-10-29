@@ -30,8 +30,14 @@
               <div class="flex-row">
                 <div class="col-6">
                   <div class="dev__content text-center">
-                     <h1>Android App Development</h1>
+                     <h1 class="title-color " >Android App Development</h1>
                     <p>Ferrosia builds custom apps from the ground up, taking <br> advantage of all the features that make Android the world’s <br> most popular mobile platform.</p>
+                    <div class="btn-wrap">
+                        <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
                   </div>
                 </div>
                 <div class="col-4">
@@ -43,7 +49,7 @@
 
           <section class="section">
               <div class=" s-title-shadow text-center">
-                <h1>Custom Android App services overview</h1>
+                <h1> Custom Android App Services Overview  </h1>
               </div>
           
               <div class="container">
@@ -261,6 +267,41 @@
                                 </div>    
                               </div>   
                       </section>
+                      <section class="section dev">
+                          <div class="s-title  text-center">
+                              <h1>Make Dream a Reality <br>
+                                  At Ferrosia, we don’t just develop apps. <br> We build dreams. Let’s build yours!</h1>
+                            </div>
+                          
+                      <div class="container-fluid" style="background-color: #f2f2f2">
+                          <div class="container">
+                          <div class="row" >
+                              <div class="col-sm-6">
+                                  <div class="contact-form">
+                                          <div class="form-group">
+                                              <input class="form-control" type="text" placeholder="Full name *">
+                                          </div>
+                                          <div class="form-group">
+                                              <input class="form-control" type="email" placeholder="Email*">
+                                          </div>
+                                          <div class="form-group">
+                                              <input class="form-control" type="text" placeholder="Phone number*">
+                                          </div>
+                                          <div class="form-group">
+                                              <textarea class="form-control" rows="5" cols="25" placeholder="Message"></textarea>
+                                          </div>
+                                          <div class="form-group text-right">
+                                              <button class="btn btn-default btn-green">Send Message</button> 
+                                          </div>   
+                                  </div> 
+                              </div>
+                              <div class="col-sm-6">
+                                  <img class="w-max" src="../img/asset-6.png" alt="">
+                              </div>
+                          </div>
+                      </div>
+                    </div>
+                    </section>
                     
 
     <div data-include="../components/footer.html"></div>

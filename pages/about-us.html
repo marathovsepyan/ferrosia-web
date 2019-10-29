@@ -39,7 +39,7 @@
                             <div class="btn-wrap">
                                 <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.facebook.com/instagram" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-instagram"></i></a>
                                 <a href="https://www.linkedin.com/company/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                     </div>
@@ -61,10 +61,10 @@
               <div class="flex-row">
                 <div class="col-4">
                   <div class="dev__content">
-                    <a href="" class="btn btn-default mb-40">50+ ENGINEERS FULLY AT YOUR SERVICE</a>
+                    <a href="" class="btn btn-default mb-40">20+ ENGINEERS FULLY AT YOUR SERVICE</a>
                     <p>Ferrosia is a software design and development company that provides end-to-end development service for web and mobile development. We work on a wide range of technologies ranging from open source to proprietary
                       and custom-built solutions.</p>
-                    <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 50+ IT professionals. </p>
+                    <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 20+ IT professionals. </p>
                   </div>
                 </div>
                 <div class="col-6">
@@ -153,7 +153,7 @@
                     </div>
                   </div>
             
-                  <div class="col-lg-4 col-md-5 col-sm-6 media">
+                  <div class="col-lg-4 col-md-5 col-sm-6 ">
                     <div class="s-card2">
                       <div class="s-card2__icon2">
                           <i class="fas fa-handshake"></i>
