@@ -25,6 +25,7 @@
     <div data-include="../components/navigation.html"></div>
 
     <header class="header">
+      <section class="section dev">
         <div class="container">
           <div class="flex-row ">
             <div class="item">
@@ -34,8 +35,10 @@
                     </div>
 
                     <div class="items__col col-50">
-                        <h1 class="text-red">About Us</h1>
-                        <p>Ferrosia is a software design and development company that  provides end-to-end development service for web and mobile  development. We work on a wide range of technologies ranging  from open source to proprietary and custom-built solutions.</p>
+                        <h1 class="text-red">Our Only Aim, Happy Clients </h1>
+                        <p>Ferrosia is a US-based software development company that provides businesses worldwide with custom technology solutions and software services. As an application development company with over 20 skilled software developers, Ferrosia combines technological expertise, specific domain experience, and passion for excellence to deliver enterprise-grade solutions.
+                          <br>At Ferrosia we write custom software. Our focus is on delivering value to our clients with the help of high-quality development. We believe our focused teams can efficiently solve your problems. We will be your one and only team.
+                        </p>
                             <div class="btn-wrap">
                                 <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
@@ -46,7 +49,8 @@
                 </div>
             </div>
           </div>  
-        </div>               
+        </div>   
+      </section>            
     </header>
 
     
@@ -62,9 +66,8 @@
                 <div class="col-4">
                   <div class="dev__content">
                     <a href="" class="btn btn-default mb-40">20+ ENGINEERS FULLY AT YOUR SERVICE</a>
-                    <p>Ferrosia is a software design and development company that provides end-to-end development service for web and mobile development. We work on a wide range of technologies ranging from open source to proprietary
-                      and custom-built solutions.</p>
-                    <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 20+ IT professionals. </p>
+                    <p>Ferrosia is a software design and development company that provides end-to-end development service for web and mobile development. We work on a wide range of technologies ranging from open source to proprietary and custom-built solutions.</p>
+                    <p>Our people make us stand out – whether you need a top-notch expert with niche knowledge or a team with diverse technology skills and domain expertise, Ferrosia has a pool of more than 20+ IT professionals.</p>
                   </div>
                 </div>
                 <div class="col-6">
@@ -75,7 +78,7 @@
           </section>
 
           <section class="section">
-              <div class="container">
+              <!-- <div class="container"> -->
                 <div class="s-title s-title-shadow text-center">
                   <h1>Our Strengths</h1>
                 </div>
@@ -85,8 +88,8 @@
                         <div class="s-card2__icon2__about2">
                             <i class="fas fa-briefcase"></i>
                         </div>
-                        <h4>One-Stop Vendor </h4>
-                        <p>From requirements definition and specification, architecture design, UXD, coding, testing and validation to product maintenance and support, we can handle it all in any combination.   </p>
+                        <h4>One-Stop Vendor</h4>
+                        <p>From requirements definition and specification, architecture design, UXD, coding, testing and validation to product maintenance and support, we can handle it all in any combination.  </p>
                       </div>
                     </div>
               
@@ -96,7 +99,7 @@
                             <i class="fas fa-puzzle-piece"></i>
                         </div>
                         <h4>Personal Approach</h4>
-                        <p>We thoroughly examine each customer’s case. Depending on the project requirements, we engage a dedicated team of business analysts to analyze and understand clients' specific </p>
+                        <p>We thoroughly examine each customer’s case. Depending on the project requirements, we engage a dedicated team of business analysts to analyze and understand clients' specific. </p>
                       </div>
                     </div>
               
@@ -105,8 +108,8 @@
                         <div class="s-card2__icon2__about2">
                             <i class="fas fa-address-card"></i>
                         </div>
-                        <h4>Exceptional Quality   </h4>
-                        <p>Each project at Ferrosia is under the supervision of a dedicated quality assurance team that monitors all project activities and results at each development phase.</p>
+                        <h4>Exceptional Quality  </h4>
+                        <p>Each project at Ferrosia is under the supervision of a dedicated quality assurance team that monitors all project activities and results at each development phase. </p>
                       </div>
                     </div>
                     <div class="col-lg-3 col-md-5 col-sm-6">
@@ -114,11 +117,11 @@
                           <div class="s-card2__icon2__about2">
                               <i class="fas fa-search-plus"></i>
                           </div>
-                          <h4>Complete Transparency   </h4>
-                          <p>Depending on specific requirements, our experts will take clients through each phase of solution development, step by step, providing sound advice on technology and application design options.</p>
+                          <h4>Complete Transparency </h4>
+                          <p>Depending on specific requirements, our experts will take clients through each phase of solution development, step by step, providing sound advice on technology and application design options.                            </p>
                         </div>
                       </div>
-                    </div>
+                    <!-- </div> -->
             </section>
 
 
@@ -139,7 +142,8 @@
                           <i class="fas fa-user-tie"></i>
                       </div>
                       <h4>Understand Client’s Needs  </h4>
-                      <p>We carefully study each customer case to understand the client’s needs and objectives, and deliver a reliable and efficient solution. We analyze all available options and provide competent advice to guide clients to informed business decisions.</p>
+                      <p>We carefully study each customer case to understand the client’s needs and objectives and deliver a reliable and efficient solution. We analyze all available options and provide competent advice to guide clients to informed business decisions.
+                        </p>
                     </div>
                   </div>
             
@@ -158,8 +162,8 @@
                       <div class="s-card2__icon2">
                           <i class="fas fa-handshake"></i>
                       </div>
-                      <h4>Partners With Clients </h4>
-                      <p>We go an extra mile to become our clients' long-term, trusted partner. Our priority is not only providing professional services and solutions, but becoming a true technology partner, dedicated to meeting client needs today and supporting clients' growing business needs tomorrow.</p>
+                      <h4>Partners with Clients </h4>
+                      <p>We go an extra mile to become our clients' long-term, trusted partner. Our priority is not only providing professional services and solutions, but becoming a true technology partner, dedicated to meeting client needs today and supporting clients' growing business needs tomorrow.   </p>
                     </div>
                   </div>
                 </div>

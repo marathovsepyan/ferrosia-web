@@ -31,14 +31,16 @@
     <section class="section dev">
         <div class="container">
           <div class="flex-row">
+
             <div class="col-6">
                 <div class="dev__content text-center">
-                      <p class="center text-center">Ferrosia is a full-service iOS app development company. <br>
-                            We help our clients with development of high performance, <br>
-                            secure, and scalable iOS mobile apps. <br>
+                <h1 class="title-color">iPhone App Development</h1>
+                      <p class="center text-center">Ferrosia is a full-service iOS app development company.  <br>
+                        We help our clients with development of high performance, <br> secure, and scalable iOS mobile apps.
+                        <br>
                     </p>
-                    <h2 class="title-color " >Transform Your Idea By Hiring <br> Our Experts iPhone App Developers</h2>
-                    <p class="center text-center">iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs. If you are looking for iPhone app development then you should hire the best iPhone app development company like Ferrosia that can convert your dream app idea into reality.</p>
+                    <h3 class="title-color">Transform Your Idea by Hiring <br> Our Experts iPhone App Developers</h3>
+                    <p class="center text-center">iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application, then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs. If you are looking for iPhone app development, then you should hire the best iPhone app development company like Ferrosia that can convert your dream app idea into reality.</p>
                     <div class="btn-wrap">
                         <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
@@ -48,7 +50,7 @@
                   </div>
             </div>
             
-            <div class="col-4">
+            <div class="col-5">
                   <img class="w-max" src="../img/asset-14-100.jpg" alt="">
             </div>
           </div>
@@ -242,7 +244,7 @@
                           <h1>Process we Follow</h1>
                         </div>
                   
-                      <div class="container">
+                      <!-- <div class="container"> -->
                        <div class="row-flex process-we-Follow-mob"> 
                         <div class="col col-lg-2 col-md-3 col-sm-4">
                             <div class="s-card3">
@@ -295,7 +297,7 @@
                                   </div>
                                   <h4>Deployment</h4>
                                 </div>
-                              </div>
+                              <!-- </div> -->
             
                               <!-- <div class="col">
                                       <div class="s-card3">

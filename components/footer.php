@@ -4,12 +4,12 @@
       <div class=" col-sm-4 list-title">
           <h3>Our Premium Services</h3>
         <ul class="ft-list list-line">
-          <li><a href="../pages/mobile-app-development.html">Mobile App Development</a></li>
-          <li><a href="../pages/web-development.html">Desktop App Development</a></li>
-          <li><a href="../pages/custom-software-development.html">Custom Software Development</a></li>
-          <li><a href="../pages/on-demand-developers.html">On-Demand Developers</a></li>
-          <li><a href="../pages/web-development.html">Front/Back End Development</a></li>
-          <li><a href="../pages/ui-ux-design-services.html">UI/UX Design</a></li>
+          <li><a href="../mobile-app-development.html">Mobile App Development</a></li>
+          <li><a href="../web-development.html">Desktop App Development</a></li>
+          <li><a href="../custom-software-development.html">Custom Software Development</a></li>
+          <li><a href="../on-demand-developers.html">On-Demand Developers</a></li>
+          <li><a href="../web-development.html">Front/Back End Development</a></li>
+          <li><a href="../ui-ux-design-services.html">UI/UX Design</a></li>
         </ul>
       </div>
 

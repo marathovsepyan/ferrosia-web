@@ -36,15 +36,10 @@
                         <h1 class="title-color ">Custom Software Development</h1>
                         <p class="center">
                                 Can’t find the right software to help your business? <br>
-                                We build Custom Software that unblocks Business Bottlenecks and boosts Productivity
+                                We build Custom Software that unblocks Business Bottlenecks and boosts Productivity.
                             </p>
-                       <h3 class="title-color">We love Unique Challenges</h3>
                        <p class="center">
-                                From industry-compliant custom software to flexible teaching and training platforms, we can work with you to 
-                                develop programming solutions that address your specific needs. Let’s work together on your project, 
-                                combining your expertise in your field with our expertise in programming. If you don’t see your 
-                                industry below, let us know what you need. Lots of the work we 
-                                do doesn’t fit into a single category.
+                            From industry-compliant custom software to flexible teaching and training platforms, we can work with you to develop programming solutions that address your specific needs. Let’s work together on your project, combining your expertise in your field with our expertise in programming.
                       </p>
                       <div class="btn-wrap">
                             <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
@@ -128,57 +123,57 @@
                                                         <i class="fas fa-id-card  icon-color"></i>
                                                     </div>
                                                         <h2>1</h2>
-                                                        <h5>Planning</h5>
-                                                        <p>The purpose of this first phase is to find out the scope of the problem and determine solutions. Resources, costs, time, benefits and other items should be considered here </p>
+                                                        <h5 class="">Planning</h5>
+                                                        <p>The purpose of this first phase is to find out the scope of the problem and determine solutions. Resources, costs, time, benefits and other items should be considered here. </p>
                                                  </div>
                                                  <div class="s-card2 col-md-3">
                                                      <div class="s-card2__icon2">
                                                         <i class="fas fa-edit"></i>
                                                     </div>
                                                         <h2>2 </h2>
-                                                        <h5>Systems Analysis & Requirements</h5>
+                                                        <h5 class="">Systems Analysis & Requirements</h5>
                                                         <p>The second phase is where teams consider the functional requirements of the project or solution. It’s also where system analysis takes place - or analyzing the needs of the end users to ensure the new system can meet their expectations.</p>
                                                  </div>
                                                  <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2 icon-color">
-                                                                <i class="fab fa-whmcs"></i>
+                                                         <i class="fab fa-whmcs"></i>
                                                     </div>
                                                         <h2>3</h2>
-                                                        <h5>Systems Design</h5>
-                                                        <p>The third phase describes, in detail, the necessary specifications, features and operations that will satisty the functional requirements of the proposed system which will be in place.</p>
+                                                        <h5 class="">Systems Design</h5>
+                                                        <p>The third phase describes, in detail, the necessary specifications, features and operations that will satisfy the functional requirements of the proposed system which will be in place.</p>
                                                  </div> 
                                                 <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2">
-                                                                <i class="fas fa-tools"></i>
+                                                         <i class="fas fa-tools"></i>
                                                     </div>
                                                         <h2>4 </h2>
-                                                        <h5>Development</h5>
-                                                        <p>Mow the real work begins. The development phase marks the end of the initial section of the process. Additionally, this phase signifies the start of production. The development stage is also characterized by instillation & change</p>
+                                                        <h5 class="">Development</h5>
+                                                        <p>Mow the real work begins. The development phase marks the end of the initial section of the process. Additionally, this phase signifies the start of production. The development stage is also characterized by instillation & change.  </p>
                                                 </div> 
 
                                                  <div class="s-card2 col-md-3">
                                                     <div class="s-card2__icon2">
-                                                                <i class="fas fa-search"></i>
+                                                          <i class="fas fa-search"></i>
                                                     </div>
                                                          <h2>5</h2>
-                                                         <h5>Integration & Testing</h5>
-                                                         <p>This phase involves systems integration and system testing (of programs and procedures)normally carried out by a QualityAssurance (QA) professional to determine if the proposed design meets the initial set of business goals. </p>
+                                                         <h5 class="">Integration & Testing</h5>
+                                                         <p>This phase involves systems integration and system testing (of programs and procedures) normally carried out by a Quality Assurance (QA) professional to determine if the proposed design meets the initial set of business goals. </p>
                                                 </div>
                                                  <div class="s-card2 col-md-3">
                                                      <div class="s-card2__icon2">
                                                              <i class="fas fa-laptop-code"></i>
                                                       </div>
                                                         <h2>6</h2>
-                                                        <h5>Implementation</h5>
-                                                        <p>The sixth phase is when the majority of the code for the program is written, and when the project is put into production by moving the data and components from the old system and placing rhem in the new sysrem via a direct cutover.</p>
+                                                        <h5 class="">Implementation</h5>
+                                                        <p>The sixth phase is when the majority of the code for the program is written, and when the project is put into production by moving the data and components from the old system and placing them in the new system via a direct cutover.</p>
                                                     </div>
                                                  <div class="s-card2 col-md-3">
                                                       <div class="s-card2__icon2">
                                                              <i class="fas fa-sliders-h"></i>
                                                       </div>
                                                         <h2>7</h2>
-                                                        <h5>Operations & Maintenance</h5>
-                                                        <p>The last phase is when end users can fine- tune the system, if they wish, to boost performance, add new capabilites or meet additional user requirements.</p>
+                                                        <h5 class="">Operations & Maintenance</h5>
+                                                        <p>The last phase is when end users can fine- tune the system, if they wish, to boost performance, add new capabilities or meet additional user requirements.</p>
                                                   </div>              
                                          </div> 
                                  </div>
@@ -222,9 +217,9 @@
                                  <div class="container">
                                     <div class="s-title  text-center">
                                         <p class="center">Have you been told your software project is impossible or too difficult? <br>
-                                                                A lot of our clients heard that before they found us. We welcome the challenge of making your vision a reality. <br>
-                                                                Ready to get started? <br>
-                                                                Request a free consultation today.</p>
+                                                        A lot of our clients heard that before they found us. We welcome the challenge of making your vision a reality.<br>
+                                                        Ready to get started?  <br>  Request a free consultation today.
+                                        </p>
                                     </div> 
                                 </div>
 

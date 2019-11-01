@@ -31,7 +31,7 @@
                 <div class="col-6">
                   <div class="dev__content text-center">
                      <h1 class="title-color " >Android App Development</h1>
-                    <p>Ferrosia builds custom apps from the ground up, taking <br> advantage of all the features that make Android the world’s <br> most popular mobile platform.</p>
+                    <p>Ferrosia develops comprehensive custom Android mobile app. Our services include responsive user interface designs, reliable back-end programming, and strategic management solutions for the Google Play store distribution. We offer a wide variety of migration services, integration, and maintenance upgrade /update solutions for Android app devices.</p>
                     <div class="btn-wrap">
                         <a href="https://www.facebook.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://twitter.com/ferrosia" class="btn btn-white btn-icon"><i class="fab fa-twitter"></i></a>
@@ -59,7 +59,8 @@
                         <i class="fas fa-clipboard-list"></i>
                     </div>
                     <h4>Android Project Planning: App Development  </h4>
-                    <p>Project development requires laying out a clear roadmap to delivering the apps objectives. Using an agile or a waterfall development approach our programmers collaborate to develop professional customized solutions.</p>
+                    <p>Project development requires laying out a clear roadmap to delivering the apps objectives. Using an agile or a waterfall development approach our programmers collaborate to develop professional customized solutions.
+                      </p>
                   </div>
                 </div>
           
@@ -69,7 +70,8 @@
                         <i class="fas fa-file-upload"></i>
                     </div>
                     <h4>Android Development Services</h4>
-                    <p>Our front-end and back-end coders, UI/UX designers, database engineers and QA testing specialists synchronize all of their efforts to deliver enterprise-class products. Our team of develops output, business goals, maintain key performance indicators and establish firm deadlines to ensure tasks are completed and desires are met. </p>
+                    <p>Our front-end and back-end coders, UI/UX designers, database engineers and QA testing specialists synchronize all of their efforts to deliver enterprise-class products. Our team of develops output, business goals, maintain key performance indicators and establish firm deadlines to ensure tasks are completed and desires are met.
+                      </p>
                   </div>
                 </div>
           
@@ -78,7 +80,7 @@
                     <div class="s-card2__icon2">
                         <i class="fas fa-mobile-alt"></i>
                     </div>
-                    <h4>Android App: Maintenance and Upgrades </h4>
+                    <h4>Android App: Maintenance & Upgrades </h4>
                     <p>Let us test and deploy your app to the Google Play store or integrate it into your current business IT infrastructure. Our continuous maintenance and upkeep services will keep your application functional, scalable and in line with new UI/UX trends while being fully operational through Android platform updates and new devices hitting the market.</p>
                   </div>
                 </div>
@@ -93,16 +95,16 @@
                 <div class="section-sm" style="background-color: #f2f2f2"> 
                     <div class="col-sm-4 margin">
                         <div class="s-card2">
-                                <h4> Flexible Engagement Models </h4>
-                                <p>With flexible engagement models, we offer <br>   you the liberty to hire our proficient and <br> xpert android developers that best suit your <br> project requirements</p>
+                                <h4 class="text-red">Flexible Engagement Models </h4>
+                                <p class="text-margin">With flexible engagement models, we offer you the liberty to hire our proficient and expert android developers that best suit your project requirements.</p>
                         </div> 
                         <div class="s-card2">
-                                <h4>Global Reach</h4>
-                                <p>With our feet across the globe, we welcome <br> you to the world of hidden business opportunities <br> with customized solutions across <br> geographies</p>
+                                <h4 class="text-red">Global Reach  </h4>
+                                <p  class="text-margin">With our feet across the globe, we welcome you to the world of hidden business opportunities with customized solutions across geographies. </p>
                         </div> 
                         <div class="s-card2">
-                                <h4>On-time, On-Budget Delivery</h4>
-                                <p>We know the importance of time and money <br> for your business. Our team addresses these <br> aspects carefully and ensures top-notch quality <br> within promised time and budget.</p>
+                                <h4 class="text-red">On-time, On-Budget Delivery </h4>
+                                <p  class="text-margin">We know the importance of time and money for your business. Our team addresses these aspects carefully and ensures top-notch quality within promised time and budget.</p>
                         </div>
                     </div> 
 
@@ -112,16 +114,16 @@
 
                     <div class="col-sm-4  margin"> 
                             <div class="s-card2">
-                                    <h4> Flexible Engagement Models </h4>
-                                    <p>With flexible engagement models, we offer <br>   you the liberty to hire our proficient and <br> xpert android developers that best suit your <br> project requirements</p>
+                                <h4 class="text-red"> Cost-Effective Development </h4>
+                                <p  class="text-margin">Our cost-effective services cater to every aspect of development lifecycle encompassing ideation of robust mobile app to development and deployment, under one roof.</p>
                             </div> 
                             <div class="s-card2">
-                                    <h4>Global Reach</h4>
-                                    <p>With our feet across the globe, we welcome <br> you to the world of hidden business opportunities <br> with customized solutions across <br> geographies</p>
+                                <h4 class="text-red">Skills and Expertise </h4>
+                                <p  class="text-margin">With our quality-driven approach, we have served clients with different business needs to deliver them great experience and ROI through a robust mobile app.</p>
                             </div> 
                             <div class="s-card2">
-                                    <h4>On-time, On-Budget Delivery</h4>
-                                    <p>We know the importance of time and money <br> for your business. Our team addresses these <br> aspects carefully and ensures top-notch quality <br> within promised time and budget.</p>
+                                <h4 class="text-red">Continuous Support</h4>
+                                <p  class="text-margin">Be it best-in-class services or round-the-clock support, Ferrosia’s professionals are ready with their expertise whenever you need them.  </p>
                             </div>
                         </div>
                         
@@ -136,7 +138,7 @@
                           <h1>Process we Follow</h1>
                         </div>
                   
-                      <div class="container">
+                      <!-- <div class="container"> -->
                         <div class="row-flex process-follow-mob">
                         <div class="col col-lg-2 col-md-3 col-sm-4 process-follow-list">
                             <div class="s-card3">
@@ -191,7 +193,7 @@
                             </div>
                             <h4>Deployment</h4>
                           </div>
-                        </div>
+                        <!-- </div> -->
 <!-- 
                         <div class="col">
                                 <div class="s-card3">
@@ -261,9 +263,9 @@
                         <div class="col">
                                 <div class="s-card2 ">
                                         <h1>Hire Android App Developers</h1>
-                                        <p class="center">Your idea, our execution. If you have an idea of making <br>
-                                            an android app feel free to contact</p>
-                                        <p class="center">Let’s innovate together. Whether you are a start-up, a business enterprise or <br> Fortune 500 company, hire our expert Android App development team today, <br> to digitalize your business.tomorrow. </p>
+                                        <p class="center">Your idea, our execution. If you have an idea of making <br> an android app feel free to contact.</p>
+                                        <h1>Let’s Innovate Together</h1>
+                                        <p class="center">Whether you are a start-up, a business enterprise or <br> Fortune 500 company, hire our expert Android App development team today, <br> to digitalize your business tomorrow. </p>
                                 </div>    
                               </div>   
                       </section>

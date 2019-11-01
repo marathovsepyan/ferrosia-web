@@ -294,6 +294,7 @@ body {
 		text-align: center;
 	
 	
+	
 		&__icon {
 			display: inline-flex;
 			flex-direction: row;
@@ -376,6 +377,7 @@ body {
 			
 			&:hover {
 				background-color: $red;
+			
 			}
 			img {
 				height: 60px;
@@ -393,8 +395,15 @@ body {
  .s-card2 {
 	text-align: center;
 	padding: -1 30px;
-    margin-bottom: 30px;
+	
+	.text-margin {
+		height: 120px;
+		margin: 0 30px;	
+	}
 
+	h4 {
+		margin-top: 25px;
+	}
 
 	&__icon2 {
 		display: inline-flex;
@@ -416,6 +425,7 @@ body {
 	}
 
 	&__about2 { box-shadow: none;}
+
 
 	&__icon-android {
 		display: inline-flex;
@@ -1228,7 +1238,7 @@ body {
 		line-height: 1.2;
 	}
 	li{
-		font-size: 30px;
+		font-size: 25px;
    		 font-weight: bold;
    		 line-height: 1.1;
        }

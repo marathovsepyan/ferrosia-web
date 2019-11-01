@@ -199,6 +199,9 @@
     .flex-row{
         flex-direction: column;
     }
+    .row {
+        flex-direction: column !important;
+    }
 
     .proces-follow-mob{
         flex-direction: column;
@@ -313,8 +316,10 @@ br {
         li{
                  box-sizing: none;
         }
-    } 
+    }
+    
 }
+
 
 
 
