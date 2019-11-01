@@ -157,6 +157,10 @@
             margin-bottom: 75px;
         }
     }
+
+    .web-title {
+        padding-top: 0;
+    }
 }
 
 
@@ -317,6 +321,19 @@ br {
                  box-sizing: none;
         }
     }
+
+    .web-title {
+        padding-top: 0;
+    }
+
+    .ft-list {
+        li {
+            a{
+                opacity: 0;
+            }
+        }
+    }
+    
     
 }
 

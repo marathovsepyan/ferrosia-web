@@ -95,15 +95,15 @@
                 <div class="section-sm" style="background-color: #f2f2f2"> 
                     <div class="col-sm-4 margin">
                         <div class="s-card2">
-                                <h4 class="text-red">Flexible Engagement Models </h4>
+                                <h4 class="">Flexible Engagement Models </h4>
                                 <p class="text-margin">With flexible engagement models, we offer you the liberty to hire our proficient and expert android developers that best suit your project requirements.</p>
                         </div> 
                         <div class="s-card2">
-                                <h4 class="text-red">Global Reach  </h4>
+                                <h4 class="">Global Reach  </h4>
                                 <p  class="text-margin">With our feet across the globe, we welcome you to the world of hidden business opportunities with customized solutions across geographies. </p>
                         </div> 
                         <div class="s-card2">
-                                <h4 class="text-red">On-time, On-Budget Delivery </h4>
+                                <h4 class="">On-time, On-Budget Delivery </h4>
                                 <p  class="text-margin">We know the importance of time and money for your business. Our team addresses these aspects carefully and ensures top-notch quality within promised time and budget.</p>
                         </div>
                     </div> 
@@ -114,15 +114,15 @@
 
                     <div class="col-sm-4  margin"> 
                             <div class="s-card2">
-                                <h4 class="text-red"> Cost-Effective Development </h4>
+                                <h4 class=""> Cost-Effective Development </h4>
                                 <p  class="text-margin">Our cost-effective services cater to every aspect of development lifecycle encompassing ideation of robust mobile app to development and deployment, under one roof.</p>
                             </div> 
                             <div class="s-card2">
-                                <h4 class="text-red">Skills and Expertise </h4>
+                                <h4 class="">Skills and Expertise </h4>
                                 <p  class="text-margin">With our quality-driven approach, we have served clients with different business needs to deliver them great experience and ROI through a robust mobile app.</p>
                             </div> 
                             <div class="s-card2">
-                                <h4 class="text-red">Continuous Support</h4>
+                                <h4 class="">Continuous Support</h4>
                                 <p  class="text-margin">Be it best-in-class services or round-the-clock support, Ferrosia’s professionals are ready with their expertise whenever you need them.  </p>
                             </div>
                         </div>
