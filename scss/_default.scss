@@ -292,6 +292,10 @@ a {
 .col-4 {
 	flex: 0 1 40%;
 	padding: 15px;
+
+	.max-width{
+		max-width:50%;
+	}
 }
 
 .col-6 {
